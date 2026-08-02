@@ -1,0 +1,5 @@
+tg_export/
+result.json
+__pycache__/
+*.pyc
+node_modules/
