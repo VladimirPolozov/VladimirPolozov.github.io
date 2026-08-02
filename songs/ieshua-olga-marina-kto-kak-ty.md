@@ -9,6 +9,8 @@
 
 
 
+
+
 Verse (Кто как Ты)
  Am Dm | Am | G Em | Am |
 Dm Am | Dm Am | G Em | Am | 

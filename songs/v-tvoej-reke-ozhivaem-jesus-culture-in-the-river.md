@@ -9,6 +9,8 @@
 
 
 
+
+
 Intro / Verse / Chorus / Bridge
 C | Am | Em | G/H |
 

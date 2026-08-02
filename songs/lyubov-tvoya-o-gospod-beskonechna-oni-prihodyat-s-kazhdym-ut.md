@@ -8,6 +8,8 @@
 
 
 
+
+
 Verse (Любовь Твоя)
 | D• A• Hm | G A | A•• |
 | D• A• Hm | G A | A•• | 

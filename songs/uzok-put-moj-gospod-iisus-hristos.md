@@ -8,6 +8,8 @@
 
 
 
+
+
 Куплет (Узок путь...)
   C G/H• l Am l F G l C l
   Am l Em l F G l C |

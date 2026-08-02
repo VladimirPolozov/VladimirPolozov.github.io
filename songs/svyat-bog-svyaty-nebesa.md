@@ -7,6 +7,8 @@
 
 
 
+
+
 Припев
 | Dm F | C Dm | F C | Dm | 
 | F C | Gm Dm | F C | Dm |

@@ -8,6 +8,8 @@
 
 
 
+
+
 Chorus:
 A | A | E | E | F#m | F#m | D | D |
 

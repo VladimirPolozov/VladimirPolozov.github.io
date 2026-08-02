@@ -8,6 +8,8 @@
 
 
 
+
+
 Verse/Chorus
 | G | D/F# | Em | C |
 

@@ -9,6 +9,8 @@
 
 
 
+
+
 Verse
 | A | A/G# | D2/F# | A/E |
 | D2 | A2/C# | Eadd4 | A |

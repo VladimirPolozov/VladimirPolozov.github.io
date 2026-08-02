@@ -9,6 +9,8 @@
 
 
 
+
+
 Verse/Chorus/Bridge
 D | A | E | F#m |
 

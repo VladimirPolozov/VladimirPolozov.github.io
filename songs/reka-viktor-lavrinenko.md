@@ -8,6 +8,8 @@
 
 
 
+
+
 Verse
 | G | D | D7 | G |
 | G G/F | C/E Cm/Eb |

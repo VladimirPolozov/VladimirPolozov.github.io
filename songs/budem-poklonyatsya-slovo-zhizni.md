@@ -8,6 +8,8 @@
 
 
 
+
+
 Verse/intro
 | G | G | C | C | x4
 

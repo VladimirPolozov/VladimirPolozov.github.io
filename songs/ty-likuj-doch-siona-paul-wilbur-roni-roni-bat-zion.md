@@ -9,6 +9,8 @@
 
 
 
+
+
 Припев (Ты ликуй)
 | E | Am | G | Dm |
 | E | Am F | Dm E | Am Dm Am |

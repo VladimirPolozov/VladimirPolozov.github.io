@@ -9,6 +9,8 @@
 
 
 
+
+
 Verse 1 (Все народы)
 E | A E | H | E E/G# A H |
 E | A E | H | E |

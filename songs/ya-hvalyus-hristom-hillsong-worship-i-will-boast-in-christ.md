@@ -9,6 +9,8 @@
 
 
 
+
+
 Куплет (Блaгoдapeн я Ииcуcу)
 | Em C | G D |
 | Em C | Dsus4 D |

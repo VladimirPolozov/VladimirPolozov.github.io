@@ -8,6 +8,8 @@
 
 
 
+
+
 Куплет
 Dm Gm | Gm C | Dm Gm | Bb C Dm |
 Dm Gm | Gm C | F Gm | Gm A | Dm |

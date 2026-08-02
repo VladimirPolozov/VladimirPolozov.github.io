@@ -8,6 +8,8 @@
 
 
 
+
+
 Chorus
 | G A | D | G A | D |
 | G A | Hm | G A | D |

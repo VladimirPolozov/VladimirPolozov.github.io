@@ -9,6 +9,8 @@
 
 
 
+
+
 Вступление
 Am G/B | C Dm7 | 
 Fmaj7 G | Am |

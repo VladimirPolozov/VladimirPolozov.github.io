@@ -8,6 +8,8 @@
 
 
 
+
+
 Intro/Pre-chorus
 | D | D | F#m | E |
 

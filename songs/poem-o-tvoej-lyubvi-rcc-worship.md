@@ -8,6 +8,8 @@
 
 
 
+
+
 Куплет (Горы поют…):
 Hb | Hb | F | F Dm | 
 Ebmaj | Gm | Fsus4 | F | 

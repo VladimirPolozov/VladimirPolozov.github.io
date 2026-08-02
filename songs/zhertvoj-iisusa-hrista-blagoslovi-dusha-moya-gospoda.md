@@ -8,6 +8,8 @@
 
 
 
+
+
 Intro/Verse/Chorus/Bridge
 | D A | Hm G |
 

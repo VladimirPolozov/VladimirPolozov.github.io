@@ -7,6 +7,8 @@
 
 
 
+
+
 Куплет (Verse)
 E E/G# l A E/G# l F#m7 F#/A# l A/H H7 l 
 E E/G# l A E/G# l F#m H7 l E l (Перед припевом добавляется E/G#)

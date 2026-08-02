@@ -309,7 +309,7 @@ def main():
         lines.append(f"        'alt_titles': {v.get('alt_titles', [])!r},")
         lines.append('    },')
     lines.append('}')
-    OUT.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+    OUT.write_text('\n'.join(lines) + '\n', encoding='utf-8', newline='\n')
 
     print(f'Всего песен: {len(meta)}, новых: {len(changed)}')
     if changed:

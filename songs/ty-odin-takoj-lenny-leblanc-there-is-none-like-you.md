@@ -8,6 +8,8 @@
 
 
 
+
+
 Chorus (Ты Один, There is  none) 
 G D/F# | C/E G/D | C G/H | Am D | 
 G D/F# | F C/E Cm/Eb | G/D D | G |

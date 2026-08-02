@@ -9,6 +9,8 @@
 
 
 
+
+
 Chorus
 G | G | Em | Em |
 C | D | G | D |

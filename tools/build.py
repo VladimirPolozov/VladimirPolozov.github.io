@@ -74,7 +74,8 @@ def enrich_song(path: Path, meta):
         k += 1
     body = lines[k:]
     new = lines[:hi] + [head, ''] + ref + ['', ''] + body
-    path.write_text('\n'.join(new).strip() + '\n', encoding='utf-8')
+    path.write_text('\n'.join(new).strip() + '\n', encoding='utf-8',
+                    newline='\n')
 
 
 def main():
@@ -104,7 +105,7 @@ def main():
             lines.append(f'- [{title_of(meta)}](/songs/{fn})')
         lines.append('')
         (ARTISTS / f'{slug(artist)}.md').write_text(
-            '\n'.join(lines), encoding='utf-8')
+            '\n'.join(lines), encoding='utf-8', newline='\n')
         total_artist_songs += n
 
     # 3. индекс исполнителей
@@ -117,7 +118,8 @@ def main():
     for artist in artists_sorted:
         lines.append(f'- [{artist}](/artists/{slug(artist)})')
     lines.append('')
-    (ARTISTS / 'index.md').write_text('\n'.join(lines), encoding='utf-8')
+    (ARTISTS / 'index.md').write_text('\n'.join(lines), encoding='utf-8',
+                                      newline='\n')
 
     # 4. сайдбар
     song_items = sorted(SONG_META.items(),
@@ -126,7 +128,7 @@ def main():
     sb += [f'  - [{title_of(meta)}](/songs/{fn})'
            for fn, meta in song_items]
     (ROOT / '_sidebar.md').write_text('\n'.join(sb) + '\n',
-                                      encoding='utf-8')
+                                      encoding='utf-8', newline='\n')
 
     print(f'Песен: {len(SONG_META)}')
     print(f'Исполнителей: {len(by_artist)} '

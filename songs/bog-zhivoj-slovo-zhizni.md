@@ -8,6 +8,8 @@
 
 
 
+
+
 Intro/Verse
 | Hm | D | G | G |
 

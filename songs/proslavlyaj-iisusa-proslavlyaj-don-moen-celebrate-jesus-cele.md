@@ -9,6 +9,8 @@
 
 
 
+
+
 Intro/Verse
 E | A/E H/E | E | A H |
 

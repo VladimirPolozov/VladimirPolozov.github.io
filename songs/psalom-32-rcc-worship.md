@@ -8,6 +8,8 @@
 
 
 
+
+
 Verse
  Е | А Е | E | H |
  E/G# | A | E H | E | 

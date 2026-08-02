@@ -9,6 +9,8 @@
 
 
 
+
+
 Intro/Verse
  Hb | Hb | Gm | Gm |
  F | F | Eb | Eb |
