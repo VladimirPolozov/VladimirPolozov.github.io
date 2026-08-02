@@ -6,7 +6,7 @@ key: A
 # Я не поколеблюсь
 
 > **Исполнитель:** Bethel Music
-> **Оригинал:** We will not be shaken
+> **Оригинальное название:** We will not be shaken
 > **Тональность:** A
 
 

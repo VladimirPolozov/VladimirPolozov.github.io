@@ -6,7 +6,7 @@ key: Am
 # Нужен мне лишь Ты
 
 > **Исполнитель:** Hillsong Worship
-> **Оригинал:** All I need is You
+> **Оригинальное название:** All I need is You
 > **Тональность:** Am
 
 

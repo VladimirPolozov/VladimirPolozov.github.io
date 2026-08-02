@@ -6,7 +6,7 @@ key: G
 # Среди ангелов и славы
 
 > **Исполнитель:** Roy Fields
-> **Оригинал:** In the presence of angels
+> **Оригинальное название:** In the presence of angels
 > **Тональность:** G
 
 

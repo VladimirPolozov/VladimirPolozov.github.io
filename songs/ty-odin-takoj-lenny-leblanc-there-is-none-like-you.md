@@ -3,7 +3,7 @@
 # Ты Один такой
 
 > **Исполнитель:** Lenny LeBlanc
-> **Оригинал:** There is none like You
+> **Оригинальное название:** There is none like You
 
 
 

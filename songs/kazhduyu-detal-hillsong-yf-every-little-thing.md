@@ -6,7 +6,7 @@ key: G
 # Каждую деталь
 
 > **Исполнитель:** Hillsong Y&F
-> **Оригинал:** Every Little Thing
+> **Оригинальное название:** Every Little Thing
 > **Тональность:** G
 
 

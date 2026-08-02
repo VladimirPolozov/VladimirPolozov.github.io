@@ -5,7 +5,7 @@ key: D
 
 # Слава в вышних Богу
 
-> **Оригинал:** Angels we had heard on high
+> **Оригинальное название:** Angels we had heard on high
 > **Тональность:** D
 
 

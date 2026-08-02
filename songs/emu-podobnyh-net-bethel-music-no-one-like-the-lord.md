@@ -6,7 +6,7 @@ key: Am
 # Ему подобных нет
 
 > **Исполнитель:** Bethel Music
-> **Оригинал:** No one like the Lord
+> **Оригинальное название:** No one like the Lord
 > **Тональность:** Am
 
 

@@ -6,7 +6,7 @@ key: Eb
 # You raise me up
 
 > **Исполнитель:** Josh Groban
-> **Оригинал:** You raise me up
+> **Оригинальное название:** You raise me up
 > **Тональность:** Eb
 
 

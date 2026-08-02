@@ -6,7 +6,7 @@ key: G
 # Иисус, Ты любовь моя
 
 > **Исполнитель:** Hillsong Worship
-> **Оригинал:** Jesus Lover of my soul
+> **Оригинальное название:** Jesus Lover of my soul
 > **Тональность:** G
 
 

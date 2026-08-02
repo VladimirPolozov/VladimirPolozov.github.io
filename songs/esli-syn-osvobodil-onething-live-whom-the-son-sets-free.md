@@ -6,7 +6,7 @@ key: G
 # Если Сын освободил
 
 > **Исполнитель:** Onething Live
-> **Оригинал:** Whom the Son sets free
+> **Оригинальное название:** Whom the Son sets free
 > **Тональность:** G
 
 

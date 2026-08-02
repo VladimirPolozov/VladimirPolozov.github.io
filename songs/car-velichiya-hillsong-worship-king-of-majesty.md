@@ -6,7 +6,7 @@ key: G
 # Царь Величия
 
 > **Исполнитель:** Hillsong Worship
-> **Оригинал:** King of Majesty
+> **Оригинальное название:** King of Majesty
 > **Тональность:** G
 
 

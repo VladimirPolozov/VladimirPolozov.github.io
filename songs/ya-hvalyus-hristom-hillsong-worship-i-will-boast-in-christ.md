@@ -6,7 +6,7 @@ key: Em
 # Я хвалюсь Христом
 
 > **Исполнитель:** Hillsong Worship
-> **Оригинал:** I Will Boast In Christ
+> **Оригинальное название:** I Will Boast In Christ
 > **Тональность:** Em
 
 

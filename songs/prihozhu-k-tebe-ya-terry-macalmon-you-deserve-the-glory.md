@@ -6,7 +6,7 @@ key: A
 # Прихожу к Тебе я
 
 > **Исполнитель:** Terry MacAlmon
-> **Оригинал:** You Deserve the Glory
+> **Оригинальное название:** You Deserve the Glory
 > **Тональность:** A
 
 

@@ -6,7 +6,7 @@ key: Em
 # Шторм
 
 > **Исполнитель:** John Thurlow
-> **Оригинал:** Storm all around You
+> **Оригинальное название:** Storm all around You
 > **Тональность:** Em
 
 

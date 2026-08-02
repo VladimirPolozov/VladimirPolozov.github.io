@@ -6,7 +6,7 @@ key: C
 # Яхве, славу нам являй
 
 > **Исполнитель:** Oasis Worship
-> **Оригинал:** Yahweh Se Manifestará
+> **Оригинальное название:** Yahweh Se Manifestará
 > **Тональность:** C
 
 

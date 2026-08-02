@@ -6,7 +6,7 @@ key: Hm
 # Иисус, прекрасен Ты
 
 > **Исполнитель:** Carleigh Conant
-> **Оригинал:** Beautiful and Glorious
+> **Оригинальное название:** Beautiful and Glorious
 > **Тональность:** Hm
 
 

@@ -5,7 +5,7 @@ key: A
 
 # Ничего нет невозможного
 
-> **Оригинал:** Nothing is impossible
+> **Оригинальное название:** Nothing is impossible
 > **Тональность:** A
 
 

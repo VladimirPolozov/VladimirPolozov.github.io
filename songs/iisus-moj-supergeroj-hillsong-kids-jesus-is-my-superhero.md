@@ -6,7 +6,7 @@ key: D
 # Иисус - мой супергерой
 
 > **Исполнитель:** Hillsong Kids
-> **Оригинал:** Jesus is my superhero
+> **Оригинальное название:** Jesus is my superhero
 > **Тональность:** D
 
 

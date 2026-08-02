@@ -6,7 +6,7 @@ key: A
 # Ждём, Господь, Тебя
 
 > **Исполнитель:** Martin Smith
-> **Оригинал:** Waiting Here for You
+> **Оригинальное название:** Waiting Here for You
 > **Тональность:** A
 
 

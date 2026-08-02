@@ -6,7 +6,7 @@ key: G
 # Любовь Твоя Верна
 
 > **Исполнитель:** Jesus Culture
-> **Оригинал:** Your Love Never Fails
+> **Оригинальное название:** Your Love Never Fails
 > **Тональность:** G
 
 
