@@ -1,0 +1,25 @@
+<!-- tg: msg 94 | 2022-07-27T17:44:40 -->
+
+# Приводишь тьму Ты в трепет (Mosaic MSC - Tremble) - D
+
+Куплет
+Hm | G | D | A | x2 
+
+  Припев 1 
+G | Hm A | x3
+G Hm | A |
+
+  Куплет
+Hm | G | D | F#m |
+
+  Мост 
+G | D A | 
+G A | Hm |  
+
+  Припев 2 (после моста)
+G | D A | x3
+G Hm | A |
+
+## Слушать
+
+- https://m.youtube.com/watch?v=SzZZb6RbLJs

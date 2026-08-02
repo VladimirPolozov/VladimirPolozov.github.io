@@ -1,0 +1,15 @@
+<!-- tg: msg 12 | 2022-02-10T22:46:48 -->
+
+# Лишь Христос - камень мой (Hillsong Worship - Cornerstone) - A
+
+Вступление/Проигрышь: 
+A | A | F#m | F#m | D | E |
+
+Куплет
+А | A | D | E | 
+F#m | A/C# | D E | A |
+
+Припев: 
+D F#m | E A/c# | 
+D F#m | E A/c# | 
+D F#m | E | A | A |

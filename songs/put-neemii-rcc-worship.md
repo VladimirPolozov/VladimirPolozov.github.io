@@ -1,3 +1,5 @@
+<!-- tg: msg 282 | 2026-07-16T07:52:22 -->
+
 # Путь Неемии (RCC Worship) - C#m
 
 Темп: 148
@@ -19,11 +21,3 @@
 Припев после бриджа
 | C#m | C#m/F# | C#m/A | C#m/G# |
 | Amaj | A | F#m | G# |
-
-## Слова
-
-(вставь сюда слова песни)
-
-## Слушать
-
-- [Оригинал на YouTube](https://www.youtube.com/results?search_query=Путь+Неемии+RCC+Worship)

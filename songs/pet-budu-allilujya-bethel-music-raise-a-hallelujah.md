@@ -1,0 +1,15 @@
+<!-- tg: msg 18 | 2022-02-10T22:56:26 -->
+
+# Петь буду: "Аллилуйя!" (Bethel Music - Raise a Hallelujah) - A
+
+Куплет 1
+A
+
+ Припев
+D | A | F#m | E | x2
+
+ Куплет 2
+A | A | D | D | F#m | F#m | E | E | x2
+
+ Мост
+A | A | E | E | F#m | F#m | D | D |

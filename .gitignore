@@ -1,4 +1,5 @@
 tg_export/
+channel_export/
 result.json
 __pycache__/
 *.pyc
