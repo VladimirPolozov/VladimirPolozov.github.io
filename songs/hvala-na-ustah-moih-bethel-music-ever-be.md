@@ -6,6 +6,7 @@ key: D
 # Хвала на устах моих
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie), [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Ever be
 > **Тональность:** D
 

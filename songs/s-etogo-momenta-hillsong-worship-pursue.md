@@ -6,6 +6,7 @@ key: C#m
 # С этого момента
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Pursue
 > **Тональность:** C#m
 

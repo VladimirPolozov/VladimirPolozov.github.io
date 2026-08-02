@@ -6,6 +6,7 @@ key: E
 # Снова на коленях
 
 > **Исполнитель:** [Hillsong](/artists/hillsong)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Came to my rescue
 > **Тональность:** E
 

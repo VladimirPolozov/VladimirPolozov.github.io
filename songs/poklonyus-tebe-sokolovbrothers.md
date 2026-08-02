@@ -6,6 +6,7 @@ key: G
 # Поклонюсь Тебе
 
 > **Исполнитель:** [SokolovBrothers](/artists/sokolovbrothers)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** G
 
 

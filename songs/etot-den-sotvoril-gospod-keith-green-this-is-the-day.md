@@ -6,6 +6,7 @@ key: D
 # Этот день сотворил Господь
 
 > **Исполнитель:** [Keith Green](/artists/keith-green)
+> **Категория:** [Детские](/categories/detskie)
 > **Оригинальное название:** This is the day
 > **Тональность:** D
 

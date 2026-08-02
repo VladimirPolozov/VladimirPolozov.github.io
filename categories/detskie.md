@@ -1,0 +1,27 @@
+# Детские
+
+В категории 23 песня(ен).
+
+- [Во мне мир как река](/songs/vo-mne-mir-kak-reka-vo-mne-zhizn-kak-reka.md)
+- [Глубоко в Тебе](/songs/gluboko-v-tebe-bethel-music-deep-cries-out-g.md)
+- [Да, да, Иисуса я люблю](/songs/da-da-iisusa-ya-lyublyu.md)
+- [Давай танцевать](/songs/davaj-tancevat.md)
+- [Дип-дип](/songs/dip-dip-unknown-artist-g.md)
+- [Дитя Царя](/songs/ditya-carya-hillsong-kids-royalty.md)
+- [Дух Святой сошёл на Землю](/songs/duh-svyatoj-soshel-na-zemlyu.md)
+- [Елисей](/songs/elisej-rcc-worship.md)
+- [Иисус - мой супергерой](/songs/iisus-moj-supergeroj-hillsong-kids-jesus-is-my-superhero.md)
+- [Иисус - скала](/songs/iisus-skala.md)
+- [Люблю бананы](/songs/lyublyu-banany-unknown-artist-i-like-bananas-g.md)
+- [Обратись к Иисусу](/songs/obratis-k-iisusu.md)
+- [Один путь - Иисус](/songs/odin-put-iisus-hillsong-united-one-way.md)
+- [Принесём пробуждение](/songs/prinesem-probuzhdenie.md)
+- [Прыжок вперёд](/songs/pryzhok-vpered.md)
+- [Псалом 32](/songs/psalom-32-rcc-worship.md)
+- [Путь Неемии](/songs/put-neemii-rcc-worship.md)
+- [Раз, два, три, Иисус - живой](/songs/raz-dva-tri-iisus-zhivoj-yancy-little-praise-party-one-two-t.md)
+- [Такой большой Бог](/songs/takoj-bolshoj-bog-unknown-artist-e.md)
+- [Ученик Христа](/songs/uchenik-hrista-rcc-worship-e.md)
+- [Это Сила](/songs/eto-sila-there-is-power.md)
+- [Этот день сотворил Господь](/songs/etot-den-sotvoril-gospod-keith-green-this-is-the-day.md)
+- [Я танцую для Бога](/songs/ya-tancuyu-dlya-boga.md)

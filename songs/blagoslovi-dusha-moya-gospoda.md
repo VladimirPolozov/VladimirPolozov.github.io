@@ -31,3 +31,5 @@
 **Припев**
 | A E/G# | F#m F#m D E |
 | A E | F#m F#m D E |
+
+> **Категория:** [Средний темп](/categories/srednij-temp)

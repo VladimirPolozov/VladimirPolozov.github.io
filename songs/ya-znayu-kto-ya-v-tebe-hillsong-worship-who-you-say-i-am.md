@@ -6,6 +6,7 @@ key: Hb
 # Я знаю, кто я в Тебе
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Who You say I am
 > **Тональность:** Hb
 

@@ -6,6 +6,7 @@ key: G
 # В Твоём присутствии
 
 > **Исполнитель:** [New Life Worship](/artists/new-life-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Here in Your presence
 > **Тональность:** G
 > **Размер:** 6/8

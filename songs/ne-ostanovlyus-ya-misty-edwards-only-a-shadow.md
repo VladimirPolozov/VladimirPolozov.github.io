@@ -6,6 +6,7 @@ key: D
 # Не остановлюсь я
 
 > **Исполнитель:** [Misty Edwards](/artists/misty-edwards)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Only a Shadow
 > **Тональность:** D
 

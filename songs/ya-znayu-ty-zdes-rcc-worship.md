@@ -6,6 +6,7 @@ key: Em
 # Я знаю Ты здесь
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Em
 
 

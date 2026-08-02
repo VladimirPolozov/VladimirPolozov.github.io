@@ -6,6 +6,7 @@ key: G
 # Превыше всех
 
 > **Исполнитель:** [Subcultura](/artists/subcultura)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

@@ -6,6 +6,7 @@ key: D
 # Сила в Его любви
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** D
 
 

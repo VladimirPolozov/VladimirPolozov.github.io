@@ -6,6 +6,7 @@ key: D
 # Твоё имя прекрасно Бог
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** What a beautiful name
 > **Тональность:** D
 

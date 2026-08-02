@@ -6,6 +6,7 @@ key: G
 # Я не буду рабом греха
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** No longer slaves
 > **Тональность:** G
 

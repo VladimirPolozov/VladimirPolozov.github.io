@@ -6,6 +6,7 @@ key: H
 # Мы славим Тебя
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** H
 
 

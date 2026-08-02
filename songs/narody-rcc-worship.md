@@ -6,6 +6,7 @@ key: D
 # НАРОДЫ
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** D
 
 

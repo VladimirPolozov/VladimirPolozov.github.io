@@ -6,6 +6,7 @@ key: E
 # Псалом 32
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Прославление](/categories/proslavlenie), [Детские](/categories/detskie)
 > **Тональность:** E
 
 

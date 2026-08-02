@@ -6,6 +6,7 @@ key: G
 # Я буду славить Господа Христа
 
 > **Исполнитель:** [Subcultura](/artists/subcultura)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

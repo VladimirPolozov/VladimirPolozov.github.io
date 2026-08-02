@@ -6,6 +6,7 @@ key: G
 # Никогда
 
 > **Исполнитель:** [Matt Redman](/artists/matt-redman)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Never Once
 > **Тональность:** G
 

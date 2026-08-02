@@ -6,6 +6,7 @@ key: A
 # Свободны мы
 
 > **Исполнитель:** [Planetshakers](/artists/planetshakers)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** We are free
 > **Тональность:** A
 

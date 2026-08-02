@@ -6,6 +6,7 @@ key: C
 # Когда стихнет всё
 
 > **Исполнитель:** [Michael W. Smith](/artists/michael-w-smith)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Heart of Worship
 > **Тональность:** C
 

@@ -6,6 +6,7 @@ key: H
 # Живу Тобой
 
 > **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Alive in You
 > **Тональность:** H
 

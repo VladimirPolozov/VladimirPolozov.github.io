@@ -6,6 +6,7 @@ key: Em
 # Излей от Духа
 
 > **Исполнитель:** [Reallife band](/artists/reallife-band)
+> **Категория:** [Поклонение](/categories/poklonenie), [Другое](/categories/drugoe)
 > **Тональность:** Em
 
 

@@ -6,6 +6,7 @@ key: H
 # Всё возьми
 
 > **Исполнитель:** [Hillsong United](/artists/hillsong-united)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Take it all
 > **Тональность:** H
 

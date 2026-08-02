@@ -6,6 +6,7 @@ key: F
 # О любви Твоей петь буду вечно
 
 > **Исполнитель:** [Delirious?](/artists/delirious)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** I could sing of Your love
 > **Тональность:** F
 

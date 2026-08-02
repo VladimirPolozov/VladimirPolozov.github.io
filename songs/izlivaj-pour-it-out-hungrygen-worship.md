@@ -6,6 +6,7 @@ key: C#m
 # Изливай
 
 > **Исполнитель:** [Hungrygen Worship](/artists/hungrygen-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Pour it Out
 > **Тональность:** C#m
 

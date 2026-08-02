@@ -6,6 +6,7 @@ key: E
 # Другом меня назвал
 
 > **Исполнитель:** [Israel Houghton](/artists/israel-houghton)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Friend of God
 > **Тональность:** E
 

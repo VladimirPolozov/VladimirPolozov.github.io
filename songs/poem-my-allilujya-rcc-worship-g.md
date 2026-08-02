@@ -6,6 +6,7 @@ key: G
 # Поём мы: «Аллилуйя!»
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** G
 
 

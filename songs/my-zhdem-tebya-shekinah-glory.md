@@ -6,6 +6,7 @@ key: G
 # Мы ждём Тебя
 
 > **Исполнитель:** [Shekinah Glory](/artists/shekinah-glory)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Тональность:** G
 
 

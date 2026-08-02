@@ -6,6 +6,7 @@ key: G
 # Святый Вовеки
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Holy Forever
 > **Тональность:** G
 

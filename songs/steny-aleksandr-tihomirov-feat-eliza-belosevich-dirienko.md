@@ -6,6 +6,7 @@ key: A
 # Стены
 
 > **Исполнитель:** [Александр Тихомиров](/artists/aleksandr-tihomirov), [Элиза Белосевич-Дириенко](/artists/eliza-belosevich-dirienko)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** A
 
 

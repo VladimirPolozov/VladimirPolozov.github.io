@@ -6,6 +6,7 @@ key: Em
 # Шторм
 
 > **Исполнитель:** [John Thurlow](/artists/john-thurlow)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Storm all around You
 > **Тональность:** Em
 

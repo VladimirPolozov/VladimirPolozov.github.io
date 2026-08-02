@@ -6,6 +6,7 @@ key: Em
 # О, Господь, Тебе мы поём
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** To our God
 > **Тональность:** Em
 

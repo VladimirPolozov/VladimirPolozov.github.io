@@ -6,6 +6,7 @@ key: G
 # Люблю бананы
 
 > **Исполнитель:** [Unknown artist](/artists/unknown-artist)
+> **Категория:** [Детские](/categories/detskie)
 > **Оригинальное название:** I like bananas
 > **Тональность:** G
 

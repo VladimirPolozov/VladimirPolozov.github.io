@@ -6,6 +6,7 @@ key: G
 # Славлю Имя Твоё
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

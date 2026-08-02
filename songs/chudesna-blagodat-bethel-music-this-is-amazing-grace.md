@@ -6,6 +6,7 @@ key: C
 # Чудесна благодать
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** This is amazing grace
 > **Тональность:** C
 

@@ -6,6 +6,7 @@ key: G
 # Я хвалу Тебе пою, Господь
 
 > **Исполнитель:** [Terry MacAlmon](/artists/terry-macalmon)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** I sing praise
 > **Тональность:** G
 

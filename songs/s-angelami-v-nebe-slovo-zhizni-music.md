@@ -6,6 +6,7 @@ key: A
 # С ангелами в Небе
 
 > **Исполнитель:** [Слово Жизни Music](/artists/slovo-zhizni-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** A
 
 

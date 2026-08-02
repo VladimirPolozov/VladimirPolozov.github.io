@@ -1,5 +1,6 @@
 - [Главная](/)
 - [Исполнители](/artists/index)
+- [Категории](/categories/index)
 **Песни**
   - [Noel (He is born)](/songs/tommee-profitt-noel-he-is-born-34.md)
   - [You raise me up](/songs/you-raise-me-up-josh-groban.md)

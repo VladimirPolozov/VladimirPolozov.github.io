@@ -6,6 +6,7 @@ key: G
 # Дип-дип
 
 > **Исполнитель:** [Unknown artist](/artists/unknown-artist)
+> **Категория:** [Детские](/categories/detskie)
 > **Тональность:** G
 
 

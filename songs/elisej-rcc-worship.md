@@ -6,6 +6,7 @@ key: D
 # Елисей
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Детские](/categories/detskie)
 > **Тональность:** D
 
 

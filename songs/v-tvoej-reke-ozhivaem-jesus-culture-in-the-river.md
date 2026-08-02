@@ -6,6 +6,7 @@ key: G
 # В Твоей реке оживаем
 
 > **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** In the River
 > **Тональность:** G
 

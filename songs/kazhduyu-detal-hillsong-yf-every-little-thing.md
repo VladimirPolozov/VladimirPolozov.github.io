@@ -6,6 +6,7 @@ key: G
 # Каждую деталь
 
 > **Исполнитель:** [Hillsong Y&F](/artists/hillsong-y-and-f)
+> **Категория:** [Прославление](/categories/proslavlenie), [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Every Little Thing
 > **Тональность:** G
 

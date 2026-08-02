@@ -6,6 +6,7 @@ key: Dm
 # Его имя Иисус
 
 > **Исполнитель:** [Jeremy Riddle](/artists/jeremy-riddle)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** His name is Jesus
 > **Тональность:** Dm
 

@@ -6,6 +6,7 @@ key: G
 # Любовь Твоя велика
 
 > **Исполнитель:** [ARK WORSHIP](/artists/ark-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

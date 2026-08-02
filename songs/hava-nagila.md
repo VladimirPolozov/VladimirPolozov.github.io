@@ -5,6 +5,7 @@ key: Am
 
 # Хава Нагила
 
+> **Категория:** [Прославление](/categories/proslavlenie), [Еврейские](/categories/evrejskie)
 > **Тональность:** Am
 
 

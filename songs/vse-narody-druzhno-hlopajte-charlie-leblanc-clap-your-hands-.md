@@ -6,6 +6,7 @@ key: E
 # Все народы, дружно хлопайте
 
 > **Исполнитель:** [Charlie LeBlanc](/artists/charlie-leblanc)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Clap your hands all ye people
 > **Тональность:** E
 

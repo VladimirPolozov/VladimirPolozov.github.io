@@ -6,6 +6,7 @@ key: A
 # О, прославляй имя Господа
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** O, praise the Name
 > **Тональность:** A
 

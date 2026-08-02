@@ -6,6 +6,7 @@ key: E
 # Надежда в Тебе
 
 > **Исполнитель:** [Third Day](/artists/third-day)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** My hope is You
 > **Тональность:** E
 

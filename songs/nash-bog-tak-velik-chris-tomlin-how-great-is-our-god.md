@@ -6,6 +6,7 @@ key: G
 # Наш Бог так велик
 
 > **Исполнитель:** [Chris Tomlin](/artists/chris-tomlin)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** How great is our God
 > **Тональность:** G
 

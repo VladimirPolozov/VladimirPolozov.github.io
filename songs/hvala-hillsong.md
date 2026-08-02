@@ -6,6 +6,7 @@ key: G
 # Хвала
 
 > **Исполнитель:** [Hillsong](/artists/hillsong)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

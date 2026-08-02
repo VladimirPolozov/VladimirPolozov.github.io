@@ -6,6 +6,7 @@ key: Hb
 # Поём о Твоей любви
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Hb
 
 

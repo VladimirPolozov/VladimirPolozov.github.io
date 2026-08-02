@@ -6,6 +6,7 @@ key: C#m
 # Ты ждешь когда я приду
 
 > **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** You Won’t Relent
 > **Тональность:** C#m
 

@@ -6,6 +6,7 @@ key: Em
 # Святой
 
 > **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Holy
 > **Тональность:** Em
 

@@ -6,6 +6,7 @@ key: F#m
 # Реки исцеления
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** F#m
 
 

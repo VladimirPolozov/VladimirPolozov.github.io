@@ -6,6 +6,7 @@ key: Dm
 # Всемогущий Бог
 
 > **Исполнитель:** [Kirk Franklin](/artists/kirk-franklin)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** He reigns
 > **Тональность:** Dm
 

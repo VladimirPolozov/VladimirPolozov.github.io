@@ -3,6 +3,7 @@
 # Барух Адонай
 
 > **Исполнитель:** [Paul Wilbur](/artists/paul-wilbur)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Baruch Adonai
 
 

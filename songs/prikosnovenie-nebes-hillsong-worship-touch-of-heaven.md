@@ -6,6 +6,7 @@ key: G
 # Прикосновение Небес
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Touch of Heaven
 > **Тональность:** G
 

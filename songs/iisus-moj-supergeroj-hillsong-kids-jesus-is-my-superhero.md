@@ -6,6 +6,7 @@ key: D
 # Иисус - мой супергерой
 
 > **Исполнитель:** [Hillsong Kids](/artists/hillsong-kids)
+> **Категория:** [Прославление](/categories/proslavlenie), [Детские](/categories/detskie)
 > **Оригинальное название:** Jesus is my superhero
 > **Тональность:** D
 

@@ -6,6 +6,7 @@ key: A
 # Открой Небеса
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Тональность:** A
 
 

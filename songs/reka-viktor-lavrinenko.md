@@ -6,6 +6,7 @@ key: G
 # Река
 
 > **Исполнитель:** [Виктор Лавриненко](/artists/viktor-lavrinenko)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

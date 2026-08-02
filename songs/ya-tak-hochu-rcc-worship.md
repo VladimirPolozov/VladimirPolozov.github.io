@@ -6,6 +6,7 @@ key: Em
 # Я так хочу
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Em
 > **Размер:** 6/8
 

@@ -6,6 +6,7 @@ key: E
 # Покой
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Still
 > **Также:** Пусть бушует шторм
 > **Тональность:** E

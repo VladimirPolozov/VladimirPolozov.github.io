@@ -6,6 +6,7 @@ key: Gm
 # Там
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Gm
 
 

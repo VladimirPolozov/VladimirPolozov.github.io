@@ -6,6 +6,7 @@ key: C
 # Ты сильнее
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Stronger
 > **Тональность:** C
 

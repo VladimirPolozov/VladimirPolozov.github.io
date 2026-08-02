@@ -3,6 +3,7 @@
 # Ты Один такой
 
 > **Исполнитель:** [Lenny LeBlanc](/artists/lenny-leblanc)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** There is none like You
 
 

@@ -6,6 +6,7 @@ key: G
 # Голгофа
 
 > **Исполнитель:** [Hillsong United](/artists/hillsong-united)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Calvary
 > **Тональность:** G
 

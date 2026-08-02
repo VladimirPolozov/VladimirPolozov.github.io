@@ -6,6 +6,7 @@ key: G
 # Свят наш Господь
 
 > **Исполнитель:** [Chris Tomlin](/artists/chris-tomlin)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Holy is the Lord
 > **Тональность:** G
 

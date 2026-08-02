@@ -6,6 +6,7 @@ key: A
 # Ашэм мэлэх
 
 > **Исполнитель:** [Derech](/artists/derech)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** A
 
 

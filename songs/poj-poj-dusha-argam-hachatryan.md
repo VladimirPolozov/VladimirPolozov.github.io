@@ -6,6 +6,7 @@ key: C#m
 # Пой, пой душа
 
 > **Исполнитель:** [Аргам Хачатрян](/artists/argam-hachatryan)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** C#m
 
 

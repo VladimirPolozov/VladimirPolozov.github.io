@@ -6,6 +6,7 @@ key: G
 # Царь сердца моего
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** King of my heart
 > **Тональность:** G
 

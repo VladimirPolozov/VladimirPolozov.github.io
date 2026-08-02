@@ -6,6 +6,7 @@ key: G
 # Аллилуйя
 
 > **Исполнитель:** [Nuteki Worship](/artists/nuteki-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

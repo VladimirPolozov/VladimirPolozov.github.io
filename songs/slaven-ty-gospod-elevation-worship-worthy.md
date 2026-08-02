@@ -6,6 +6,7 @@ key: D
 # Славен Ты, Господь
 
 > **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Worthy
 > **Тональность:** D
 

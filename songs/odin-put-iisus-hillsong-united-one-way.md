@@ -6,6 +6,7 @@ key: Hb
 # Один путь - Иисус
 
 > **Исполнитель:** [Hillsong United](/artists/hillsong-united)
+> **Категория:** [Прославление](/categories/proslavlenie), [Детские](/categories/detskie)
 > **Оригинальное название:** One way
 > **Тональность:** Hb
 

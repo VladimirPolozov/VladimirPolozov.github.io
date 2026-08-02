@@ -6,6 +6,7 @@ key: A
 # Ты омой меня
 
 > **Исполнитель:** [Carpen Diaz](/artists/carpen-diaz)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Тональность:** A
 
 

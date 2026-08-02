@@ -6,6 +6,7 @@ key: E
 # Правит Бог
 
 > **Исполнитель:** [Martin Smith](/artists/martin-smith)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Our God Reigns
 > **Тональность:** E
 

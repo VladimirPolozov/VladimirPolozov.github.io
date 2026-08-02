@@ -6,6 +6,7 @@ key: A
 # Превознесу Тебя
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** I will Exalt You
 > **Тональность:** A
 > **Размер:** 6/8

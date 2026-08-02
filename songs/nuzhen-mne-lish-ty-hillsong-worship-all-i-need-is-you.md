@@ -6,6 +6,7 @@ key: Am
 # Нужен мне лишь Ты
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** All I need is You
 > **Тональность:** Am
 

@@ -6,6 +6,7 @@ key: E
 # Такой большой Бог
 
 > **Исполнитель:** [Unknown artist](/artists/unknown-artist)
+> **Категория:** [Детские](/categories/detskie)
 > **Тональность:** E
 
 

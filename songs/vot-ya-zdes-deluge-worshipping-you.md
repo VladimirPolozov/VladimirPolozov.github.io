@@ -6,6 +6,7 @@ key: G
 # Вот я здесь
 
 > **Исполнитель:** [Deluge](/artists/deluge)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Worshipping You
 > **Тональность:** G
 

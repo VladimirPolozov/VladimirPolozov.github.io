@@ -6,6 +6,7 @@ key: G
 # Славь
 
 > **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Praise
 > **Тональность:** G
 

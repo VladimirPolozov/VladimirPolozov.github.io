@@ -6,6 +6,7 @@ key: Am
 # Звёзд дивные алмазы
 
 > **Исполнитель:** [Дмитрий Притула](/artists/dmitrij-pritula), [Церковь Божья в Царицыно](/artists/cerkov-bozhya-v-caricyno)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Am
 
 

@@ -6,6 +6,7 @@ key: E
 # Наш Бог Всемогущий
 
 > **Исполнитель:** [Hillsong United](/artists/hillsong-united)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Awesome God
 > **Тональность:** E
 

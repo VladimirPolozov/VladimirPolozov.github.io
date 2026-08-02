@@ -6,6 +6,7 @@ key: C#m
 # Путь Неемии
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Детские](/categories/detskie)
 > **Тональность:** C#m
 > **Темп:** 148
 

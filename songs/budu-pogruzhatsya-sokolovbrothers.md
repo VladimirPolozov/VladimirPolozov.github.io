@@ -6,6 +6,7 @@ key: Gm
 # Буду погружаться
 
 > **Исполнитель:** [SokolovBrothers](/artists/sokolovbrothers)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** Gm
 
 

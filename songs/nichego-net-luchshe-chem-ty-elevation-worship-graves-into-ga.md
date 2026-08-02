@@ -6,6 +6,7 @@ key: G
 # Ничего нет лучше, чем Ты
 
 > **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Graves into gardens
 > **Тональность:** G
 > **Размер:** 6/8

@@ -6,6 +6,7 @@ key: A
 # Мы восклицаем
 
 > **Исполнитель:** [Hillsong](/artists/hillsong)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Shout Unto God
 > **Тональность:** A
 

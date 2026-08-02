@@ -6,6 +6,7 @@ key: A
 # Ты достоин славы всей
 
 > **Исполнитель:** [David Brymer](/artists/david-brymer)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Worthy of it all
 > **Тональность:** A
 

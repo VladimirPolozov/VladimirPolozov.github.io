@@ -6,6 +6,7 @@ key: Hm
 # Освещаешь
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Hm
 > **Темп:** 118
 

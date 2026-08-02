@@ -6,6 +6,7 @@ key: G
 # Хочу я знать Тебя
 
 > **Исполнитель:** [Sonicflood](/artists/sonicflood)
+> **Категория:** [Прославление](/categories/proslavlenie), [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** I want to know You
 > **Тональность:** G
 

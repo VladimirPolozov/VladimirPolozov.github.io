@@ -6,6 +6,7 @@ key: Hb
 # Любовь - война
 
 > **Исполнитель:** [Hillsong United](/artists/hillsong-united)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Love is War
 > **Тональность:** Hb
 

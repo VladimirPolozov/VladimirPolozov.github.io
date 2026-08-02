@@ -6,6 +6,7 @@ key: A
 # Noel (He is born)
 
 > **Исполнитель:** [Tommee Profitt](/artists/tommee-profitt)
+> **Категория:** [Другое](/categories/drugoe)
 > **Оригинальное название:** Noel (He is born)
 > **Тональность:** A
 > **Размер:** 3/4

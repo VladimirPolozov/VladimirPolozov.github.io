@@ -6,6 +6,7 @@ key: Hm
 # Иисус, прекрасен Ты
 
 > **Исполнитель:** [Carleigh Conant](/artists/carleigh-conant)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Beautiful and Glorious
 > **Тональность:** Hm
 

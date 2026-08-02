@@ -6,6 +6,7 @@ key: Em
 # Бог творящий чудеса
 
 > **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Miracles
 > **Тональность:** Em
 

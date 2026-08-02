@@ -6,6 +6,7 @@ key: A
 # Ждём, Господь, Тебя
 
 > **Исполнитель:** [Martin Smith](/artists/martin-smith)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Waiting Here for You
 > **Тональность:** A
 

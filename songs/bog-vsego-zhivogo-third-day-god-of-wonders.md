@@ -6,6 +6,7 @@ key: G
 # Бог всего живого
 
 > **Исполнитель:** [Third Day](/artists/third-day)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** God of Wonders
 > **Тональность:** G
 

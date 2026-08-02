@@ -6,6 +6,7 @@ key: G
 # Возносим голоса
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** G
 
 

@@ -6,6 +6,7 @@ key: G
 # Раз, два, три, Иисус - живой
 
 > **Исполнитель:** [Yancy & Little Praise Party](/artists/yancy-and-little-praise-party)
+> **Категория:** [Детские](/categories/detskie)
 > **Оригинальное название:** One, Two, Three
 > **Тональность:** G
 

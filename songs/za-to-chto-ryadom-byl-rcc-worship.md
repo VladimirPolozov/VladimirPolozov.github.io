@@ -6,6 +6,7 @@ key: C
 # За то, что рядом был
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Тональность:** C
 
 

@@ -5,6 +5,7 @@ key: D
 
 # Обратись к Иисусу
 
+> **Категория:** [Поклонение](/categories/poklonenie), [Детские](/categories/detskie)
 > **Тональность:** D
 
 

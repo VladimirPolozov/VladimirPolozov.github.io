@@ -5,6 +5,7 @@ key: Am
 
 # Кадош
 
+> **Категория:** [Поклонение](/categories/poklonenie), [Еврейские](/categories/evrejskie)
 > **Тональность:** Am
 
 

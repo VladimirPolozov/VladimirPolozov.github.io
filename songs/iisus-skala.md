@@ -5,6 +5,7 @@ key: G
 
 # Иисус - скала
 
+> **Категория:** [Прославление](/categories/proslavlenie), [Детские](/categories/detskie)
 > **Тональность:** G
 
 

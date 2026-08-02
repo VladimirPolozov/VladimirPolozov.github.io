@@ -6,6 +6,7 @@ key: H
 # Приди ко Мне
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Come to me
 > **Тональность:** H
 

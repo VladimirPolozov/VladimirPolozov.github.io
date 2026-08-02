@@ -6,6 +6,7 @@ key: D
 # Я могу лишь представить
 
 > **Исполнитель:** [MercyMe](/artists/mercyme)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** I Can Only Imagine
 > **Тональность:** D
 

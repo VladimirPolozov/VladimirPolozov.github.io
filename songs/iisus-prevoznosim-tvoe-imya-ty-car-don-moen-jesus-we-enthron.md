@@ -6,6 +6,7 @@ key: Em
 # Иисус, превозносим, Твоё имя, Ты царь
 
 > **Исполнитель:** [Don Moen](/artists/don-moen)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Jesus We Enthrone You
 > **Тональность:** Em
 

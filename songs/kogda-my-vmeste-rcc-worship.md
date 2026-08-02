@@ -6,6 +6,7 @@ key: G
 # Когда мы вместе
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie), [Другое](/categories/drugoe)
 > **Тональность:** G
 
 

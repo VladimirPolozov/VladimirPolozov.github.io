@@ -6,6 +6,7 @@ key: Dm
 # Иисус - мой Друг
 
 > **Исполнитель:** [Not an Idol](/artists/not-an-idol)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Not an Idol
 > **Тональность:** Dm
 

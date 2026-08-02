@@ -6,6 +6,7 @@ key: A
 # Я не поколеблюсь
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** We will not be shaken
 > **Тональность:** A
 

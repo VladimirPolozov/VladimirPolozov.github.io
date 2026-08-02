@@ -6,6 +6,7 @@ key: Am
 # Ему подобных нет
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** No one like the Lord
 > **Тональность:** Am
 

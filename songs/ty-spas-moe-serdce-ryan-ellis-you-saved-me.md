@@ -6,6 +6,7 @@ key: G
 # Ты спас моё сердце
 
 > **Исполнитель:** [Ryan Ellis](/artists/ryan-ellis)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** You saved me
 > **Тональность:** G
 

@@ -6,6 +6,7 @@ key: E
 # Ученик Христа
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Детские](/categories/detskie)
 > **Тональность:** E
 
 

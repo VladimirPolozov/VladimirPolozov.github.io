@@ -6,6 +6,7 @@ key: G
 # О, как Он любит нас
 
 > **Исполнитель:** [Crowder](/artists/crowder)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** How He loves us
 > **Тональность:** G
 

@@ -6,6 +6,7 @@ key: Gm
 # Я не верю в потери
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** Gm
 
 

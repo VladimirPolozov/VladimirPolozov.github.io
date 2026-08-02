@@ -6,6 +6,7 @@ key: Em
 # Египет
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Egypt
 > **Тональность:** Em
 

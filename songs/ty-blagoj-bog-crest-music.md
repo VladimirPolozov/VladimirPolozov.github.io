@@ -6,6 +6,7 @@ key: Hm
 # Ты благой Бог
 
 > **Исполнитель:** [Crest Music](/artists/crest-music)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** Hm
 
 

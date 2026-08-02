@@ -6,6 +6,7 @@ key: D
 # Склоняясь, мы кладём венцы
 
 > **Исполнитель:** [Chris Tomlin](/artists/chris-tomlin)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** We fall down
 > **Тональность:** D
 

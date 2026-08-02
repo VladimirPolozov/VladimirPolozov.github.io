@@ -6,6 +6,7 @@ key: G
 # Глубоко в Тебе
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Прославление](/categories/proslavlenie), [Детские](/categories/detskie)
 > **Оригинальное название:** Deep Cries Out
 > **Тональность:** G*
 

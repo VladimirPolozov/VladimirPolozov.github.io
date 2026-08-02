@@ -6,6 +6,7 @@ key: H
 # Любовь бесконечна
 
 > **Исполнитель:** [Hillsong United](/artists/hillsong-united)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Relentless
 > **Тональность:** H
 

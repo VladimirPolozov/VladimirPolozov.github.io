@@ -6,6 +6,7 @@ key: G
 # Влюбляюсь в Тебя, Иисус
 
 > **Исполнитель:** [Hillsong](/artists/hillsong)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** G
 
 

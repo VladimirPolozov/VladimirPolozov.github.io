@@ -6,6 +6,7 @@ key: G
 # Для Тебя
 
 > **Исполнитель:** [Hillsong](/artists/hillsong)
+> **Категория:** [Средний темп](/categories/srednij-temp)
 > **Тональность:** G
 
 

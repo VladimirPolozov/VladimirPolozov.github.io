@@ -6,6 +6,7 @@ key: Bb
 # Спасибо
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Thank You
 > **Тональность:** Bb
 

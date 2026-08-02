@@ -6,6 +6,7 @@ key: G
 # Только Ты, Спаситель
 
 > **Исполнитель:** [Matt Redman](/artists/matt-redman)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** You alone
 > **Тональность:** G
 

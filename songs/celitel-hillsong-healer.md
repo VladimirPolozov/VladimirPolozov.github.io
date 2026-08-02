@@ -6,6 +6,7 @@ key: G
 # Целитель
 
 > **Исполнитель:** [Hillsong](/artists/hillsong)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Healer
 > **Тональность:** G
 

@@ -6,6 +6,7 @@ key: C#m
 # Крести меня Своей силой
 
 > **Исполнитель:** [Generacion 12](/artists/generacion-12)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Baptízame
 > **Тональность:** C#m
 

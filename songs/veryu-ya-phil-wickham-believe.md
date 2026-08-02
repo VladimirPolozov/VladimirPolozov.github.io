@@ -6,6 +6,7 @@ key: A
 # Верю я
 
 > **Исполнитель:** [Phil Wickham](/artists/phil-wickham)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Believe
 > **Тональность:** A
 

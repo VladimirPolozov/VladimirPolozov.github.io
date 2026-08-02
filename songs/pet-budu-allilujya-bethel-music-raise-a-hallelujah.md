@@ -6,6 +6,7 @@ key: A
 # Петь буду: "Аллилуйя!"
 
 > **Исполнитель:** [Bethel Music](/artists/bethel-music)
+> **Категория:** [Прославление](/categories/proslavlenie), [Средний темп](/categories/srednij-temp)
 > **Оригинальное название:** Raise a Hallelujah
 > **Тональность:** A
 

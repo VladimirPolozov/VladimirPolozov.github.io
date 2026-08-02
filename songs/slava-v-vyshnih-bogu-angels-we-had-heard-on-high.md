@@ -5,6 +5,7 @@ key: D
 
 # Слава в вышних Богу
 
+> **Категория:** [Прославление](/categories/proslavlenie), [Другое](/categories/drugoe)
 > **Оригинальное название:** Angels we had heard on high
 > **Тональность:** D
 

@@ -6,6 +6,7 @@ key: E
 # Прославляй Иисуса, прославляй
 
 > **Исполнитель:** [Don Moen](/artists/don-moen)
+> **Категория:** [Прославление](/categories/proslavlenie)
 > **Оригинальное название:** Celebrate Jesus, celebrate
 > **Тональность:** E
 

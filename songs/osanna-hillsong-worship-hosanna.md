@@ -6,6 +6,7 @@ key: C#m
 # Осанна
 
 > **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** Hosanna
 > **Тональность:** C#m
 

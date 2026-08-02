@@ -6,6 +6,7 @@ key: E
 # Твоя Любовь
 
 > **Исполнитель:** [RCC Worship](/artists/rcc-worship)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Тональность:** E
 > **Темп:** 90
 

@@ -6,6 +6,7 @@ key: A
 # Превозносим
 
 > **Исполнитель:** [Phil Driscoll](/artists/phil-driscoll)
+> **Категория:** [Поклонение](/categories/poklonenie)
 > **Оригинальное название:** I exalt thee
 > **Тональность:** A
 
