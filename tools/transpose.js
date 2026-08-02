@@ -49,6 +49,24 @@
     return null;
   }
 
+  // Извлекает key из YAML-frontmatter в начале файла:
+  //   ---
+  //   key: G
+  //   ---
+  // Возвращает { key, rest } — ключ и текст без frontmatter.
+  function parseFrontmatter(content) {
+    var s = String(content).replace(/^\uFEFF/, '');
+    var m = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?/.exec(s);
+    if (!m) return { key: null, rest: s };
+    var key = null;
+    var lines = m[1].split(/\r?\n/);
+    for (var i = 0; i < lines.length; i++) {
+      var kv = /^key\s*:\s*(.+)$/.exec(lines[i]);
+      if (kv) key = kv[1].trim();
+    }
+    return { key: key, rest: s.slice(m[0].length) };
+  }
+
   function renderLevel() {
     var btn = document.querySelector('#transpose-bar button[data-d="level"]');
     if (btn) {
@@ -115,11 +133,18 @@
   window.$docsify = window.$docsify || {};
   window.$docsify.plugins = window.$docsify.plugins || [];
   window.$docsify.plugins.push(function (hook) {
+    // Читаем тональность из frontmatter и убираем его из отображаемого текста.
+    // baseKey хранится между рендерами SPA.
+    hook.beforeEach(function (content) {
+      var fm = parseFrontmatter(content);
+      baseKey = fm.key || null;
+      return fm.rest;
+    });
     hook.doneEach(function () {
       injectStyle();
       buildBar();
       load();
-      baseKey = captureBaseKey();
+      if (!baseKey) baseKey = captureBaseKey();
       applyTranspose();
     });
   });
