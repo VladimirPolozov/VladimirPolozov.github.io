@@ -13,13 +13,13 @@ key: Am
 
 
 
-Intro/Chorus/Rap
+**Вступление/Припев/**Рэп
 | Am7  F | C Esus | 
 
-Verse
+**Куплет**
  | Am7 | D7 | Dm7 | Esus |
 
-Bridge
+**Бридж**
 ||: Am Gsus | Csus2 | 
 | Gsus Gsus Gsus G/B |
 | Csus2 Csus Dm7 Esus :||

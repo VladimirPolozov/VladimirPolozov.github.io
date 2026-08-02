@@ -14,16 +14,16 @@ key: G
 
 
 
-Verse: 
+**Куплет:** 
 G | C G | Em D | C G |
 
- Chorus:
+ **Припев:**
 Em D | C G |
 
- Bridge 1:
+ **Бридж 1:**
 G | G | x2 
 G | C D |
 Em D | C G |
 
- Bridge 2:
+ **Бридж 2:**
 Em D | C G |

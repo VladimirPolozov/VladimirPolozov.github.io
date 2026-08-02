@@ -13,25 +13,25 @@ key: A
 
 
 
-Chorus (Ты царствовал)
+**Припев** (Ты царствовал)
  D | A | E | F#m |
 
-Verse (Прославим имя Господа)
+**Куплет** (Прославим имя Господа)
  D | A | E | F#m |
  D | A | E |
 
-Pre-chorus (Ты наш Господь)
+**Предприпев** (Ты наш Господь)
  F#m | D | A | E |
 
 ## Слова
 
-Припев: 
+**Припев:** 
 Hashem Melech
 Hashem Malach
 Hashem Miloch
 Leolam va ed
 
-Куплет:  
+**Куплет:**  
 Ale lashem Elokim
 Ve ad le leinu ve todah
 
@@ -39,13 +39,13 @@ Ve ad le leinu ve todah
 Yud ve hey, ve vav, ve hey
 Ashem ve lokeinu ashem vechad
 
-Припев: 
+**Припев:** 
 Ты царствовал
 Ты царствуешь
 И будешь царствовать
 Вовеки веков
 
-Куплет:   
+**Куплет:**   
 Прославим Имя Господа
 И воспоём Ему хвалу
 

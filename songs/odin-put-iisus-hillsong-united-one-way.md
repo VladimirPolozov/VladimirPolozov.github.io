@@ -14,14 +14,14 @@ key: Hb
 
 
 
-Intro/Verse
+**Вступление/Куплет**
  Hb | Hb | Gm | Gm |
  F | F | Eb | Eb |
 
-Chorus
+**Припев**
  Hb | F | Gm | Eb |
  Hb | F | Gm | Ab |
 
-Bridge 
+**Бридж** 
  Hb | F | Gm | Eb | 
  Gm | F | Eb | Eb |

@@ -12,12 +12,12 @@ key: D
 
 
 
-Куплет
+**Куплет**
 | D G | D Hm |
 | D G | Hm A |
 | D G | D Hm |
 | G D | Em A | (A)
 
-Припев
+**Припев**
 | D A | Hm A |
 | D A | G A |

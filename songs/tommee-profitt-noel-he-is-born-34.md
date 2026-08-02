@@ -14,33 +14,33 @@ key: A
 
 
 
-Verse
+**Куплет**
 | A | A/G# | D2/F# | A/E |
 | D2 | A2/C# | Eadd4 | A |
 | A | A2/C# | D2 | A/C# |
 | Hm7 | A/C# | Esus2 | A | D/A |
 
-Chorus 1
+**Припев 1**
 | A | A/C# | D2 | A/C# |
 | F#m | A/E | D2•• E• | A |
 
-Interlude
+**Проигрыш**
 | A | D2 | 
 
-Verse 2
+**Куплет 2**
 | A | C#m7 | D | A/C# |
 | D | A/C# | E | A |
 | A | C#m | D | A2/C# |
 | Hm7 | A/C# | E | A |
 
-Chorus 2
+**Припев 2**
 | A | C#m | D | A/E•• E• |
 | F#m | C#m7/E | D•• E• | E |
 
-Interlude
+**Проигрыш**
 | E/D | Dmaj7 | E/D |
 
-Bridge
+**Бридж**
 | A•• E | F#m•• A/C# |
 | D•• F#m | E |
 | F#m | D | G•• D/F# | E |
@@ -49,7 +49,7 @@ Bridge
 | D•• F#m | E |
 | F#m | D | Esus2 | E |
 
-Chorus 3
+**Припев 3**
 | A•• E | F#m•• A/C# |
 | D•• F#m | E |
 | F#m | D | G•• D/F# | E |

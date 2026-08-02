@@ -10,14 +10,14 @@
 
 
 
-Chorus (Ты Один, There is  none) 
+**Припев** (Ты Один, There is  none) 
 G D/F# | C/E G/D | C G/H | Am D | 
 G D/F# | F C/E Cm/Eb | G/D D | G |
 
 «Аллилуйя»
 G D/F# | C/E G/D | C Am | C D |
 
-Verse (Your mercy) 
+**Куплет** (Your mercy) 
 C D | G Em | C D | G |
 C D | G Em | C Am | D |
 
@@ -35,7 +35,7 @@ C D | G Em | C Am | D |
 
 Ты Один такой (Lenny LeBlanc - There is none like You) - G
 
-Припев
+**Припев**
 | G D/F# | Em D | C G/H | Am D | 
 | G D/F# | Em D | C D | G |
 

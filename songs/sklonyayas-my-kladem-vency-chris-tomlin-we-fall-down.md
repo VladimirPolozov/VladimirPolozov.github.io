@@ -14,12 +14,12 @@ key: D
 
 
 
-Verse
+**Куплет**
 | D | A Hm |
 | G | Em |
 | D | A Hm |
 | G | A |
 
-Chorus/interlude
+**Припев/Проигрыш**
 | D/F# | G D/F# | Em | x2
 | Hm A | G D/F# | Em A | D |

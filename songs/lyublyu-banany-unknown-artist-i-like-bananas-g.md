@@ -14,14 +14,14 @@ key: G
 
 
 
-Chorus
+**Припев**
 G | G | Em | Em |
 C | D | G | D |
 
- Verse
+ **Куплет**
  G | G | Em | Em |
  C | C | D | D |
 
- Chorus/Verse (смена размера на 6/8)
+ **Припев/Куплет** (смена размера на 6/8)
 G | Em | C | D |
 G | Em | C | D |

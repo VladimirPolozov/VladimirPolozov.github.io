@@ -12,7 +12,7 @@ key: Hm
 
 
 
-Chorus
+**Припев**
  Hm | F#m | Gmaj7 Em | F#sus4 F# |
  Hm | F#m/A | Gmaj7 Em7 | F#sus4 F# |
 

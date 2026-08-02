@@ -14,18 +14,18 @@ key: G
 
 
 
-Intro
+**Вступление**
  G Hm | Em C |
 
-Verse
+**Куплет**
  G | D/F# | Em | C Am | 
 
-Chorus
+**Припев**
  G D/F# | Em C |
  G D/F# | Em C |
  G Hm | Em C |
  G (C) |
 
-Bridge
+**Бридж**
  C | C | G | G |
  C | C | G | G | Am | C |

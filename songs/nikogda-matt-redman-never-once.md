@@ -14,16 +14,16 @@ key: G
 
 
 
-Intro/Verse
+**Вступление/Куплет**
 | G | D | Em | C |
 
-Pre-chorus
+**Предприпев**
 | C | D | G | C |
 
-Chorus
+**Припев**
 | G | G | Em | Em |
 | C G | Em D |
 
-Bridge
+**Бридж**
 | C | D | G | C |
 | C | D | Em | D/F# |

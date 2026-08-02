@@ -13,14 +13,14 @@ key: D
 
 
 
-Verse 
+**Куплет** 
 | D | A | Hm | G A |
 
-Pre-chorus
+**Предприпев**
 | Hm | A | G | A | 
 
-Chorus 
+**Припев** 
 | D | F#m | G | A |
 
-Bridge 
+**Бридж** 
 | D | A | Hm | G A |

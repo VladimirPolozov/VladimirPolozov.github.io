@@ -14,22 +14,22 @@ key: A
 
 
 
-Intro
+**Вступление**
 A | E | F#m | D |
 
- Interlude
+ **Проигрыш**
 A | E F#m | D | D |
 
- Verse II
+ **Куплет** II
 A | E | D | D |
 
- Pre chorus
+ **Предприпев**
 F#m | E | A | D |
 F#m | E | D | D |
 
- Chorus
+ **Припев**
 A | E | F#m | D |
 A | E | D | D |
 
- Bridge 
+ **Бридж** 
 A | E F#m | D | D |
