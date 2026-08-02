@@ -13,7 +13,7 @@ key: G
 
 
 
-Verse/intro
+Куплет/вступление
 | G | G | C | C | x4
 
 Chorus
