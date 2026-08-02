@@ -38,8 +38,12 @@
     if (!container) return null;
     var ps = container.querySelectorAll('blockquote p');
     for (var i = 0; i < ps.length; i++) {
-      if (/Тональность/.test(ps[i].textContent)) {
-        return window.TransposeCore.matchKey(ps[i].textContent);
+      var txt = ps[i].textContent || '';
+      var idx = txt.indexOf('Тональность');
+      if (idx >= 0) {
+        // Ключ берём только из части строки после «Тональность:»,
+        // иначе matchKey поймает первую букву исполнителя (Bethel -> B).
+        return window.TransposeCore.matchKey(txt.slice(idx));
       }
     }
     return null;
