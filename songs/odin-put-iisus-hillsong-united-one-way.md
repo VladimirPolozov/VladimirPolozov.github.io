@@ -22,6 +22,6 @@ key: Hb
  Hb | F | Gm | Eb |
  Hb | F | Gm | Ab |
 
-**Бридж** 
+**Бридж**
  Hb | F | Gm | Eb | 
  Gm | F | Eb | Eb |

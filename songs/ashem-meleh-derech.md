@@ -25,13 +25,13 @@ key: A
 
 ## Слова
 
-**Припев:** 
+**Припев**
 Hashem Melech
 Hashem Malach
 Hashem Miloch
 Leolam va ed
 
-**Куплет:**  
+**Куплет**
 Ale lashem Elokim
 Ve ad le leinu ve todah
 
@@ -39,13 +39,13 @@ Ve ad le leinu ve todah
 Yud ve hey, ve vav, ve hey
 Ashem ve lokeinu ashem vechad
 
-**Припев:** 
+**Припев**
 Ты царствовал
 Ты царствуешь
 И будешь царствовать
 Вовеки веков
 
-**Куплет:**   
+**Куплет**
 Прославим Имя Господа
 И воспоём Ему хвалу
 

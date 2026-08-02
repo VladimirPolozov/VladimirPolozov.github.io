@@ -18,7 +18,7 @@ key: G
 | Em Am | Hm Em |
 | C D | Em |
 
-  Пред-припев (Ктo нe убoитcя, нe прocлaвит Teбя)
+  **Предприпев** (Ктo нe убoитcя, нe прocлaвит Teбя)
 | Am | Em |
 | C D | G | 
 | Am H7 | Em |
