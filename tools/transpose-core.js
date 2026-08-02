@@ -238,11 +238,39 @@
     }
   }
 
+  // Транспонирует только узлы, начиная с узла, содержащего «Тональность»/«Key:».
+  // В блоке метаданных весь блок-цитаты рендерится одним <p> с <br>,
+  // и применять mode 'key' ко всему абзацу нельзя — он зацепит
+  // «Исполнитель: Jesus Culture» (C -> C# -> D ...).
+  function transposeKeyTextNodes(p, offset) {
+    if (!ORIG || typeof document === 'undefined') return;
+    var walker = document.createTreeWalker(p, NodeFilter.SHOW_TEXT, null, false);
+    var nodes = [];
+    var node;
+    var start = -1;
+    while ((node = walker.nextNode())) {
+      nodes.push(node);
+      if (start < 0 && node.data && /Тональность|Key\s*[:=]/i.test(node.data)) {
+        start = nodes.length - 1;
+      }
+    }
+    if (start < 0) return;
+    for (var i = start; i < nodes.length; i++) {
+      var n = nodes[i];
+      if (!n.data) continue;
+      var o = ORIG.get(n);
+      if (o === undefined) {
+        o = n.data;
+        ORIG.set(n, o);
+      }
+      var out = transformText(o, offset, 'key');
+      if (out !== n.data) n.data = out;
+    }
+  }
+
   function transposeParagraph(p, offset) {
     if (p.closest && p.closest('blockquote')) {
-      if (/Тональность|Key\s*[:=]/i.test(p.textContent)) {
-        transposeTextNodes(p, offset, 'key');
-      }
+      transposeKeyTextNodes(p, offset);
       return;
     }
     transposeTextNodes(p, offset, 'line');
