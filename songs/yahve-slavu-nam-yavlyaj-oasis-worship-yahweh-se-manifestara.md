@@ -1,6 +1,13 @@
 <!-- tg: msg 161 | 2023-10-13T23:45:52 -->
 
-# Яхве, славу нам являй (Oasis Worship - Yahweh Se Manifestarа́) - C
+# Яхве, славу нам являй
+
+> **Исполнитель:** Oasis Worship
+> **Оригинал:** Yahweh Se Manifestará
+> **Тональность:** C
+
+
+
 
 Verse
 | Am | Am | Em | Em |

@@ -1,6 +1,13 @@
 <!-- tg: msg 33 | 2022-02-28T15:09:56 -->
 
-# Нужен мне лишь Ты (Hillsong Worship - All I need is You) - Am
+# Нужен мне лишь Ты
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** All I need is You
+> **Тональность:** Am
+
+
+
 
 Intro
 Am Dm | F G |

@@ -1,6 +1,13 @@
 <!-- tg: msg 229 | 2025-01-15T19:54:48 -->
 
-# You raise me up (Josh Groban) - Eb
+# You raise me up
+
+> **Исполнитель:** Josh Groban
+> **Оригинал:** You raise me up
+> **Тональность:** Eb
+
+
+
 
 Verse
 Eb Ebsus4 | Eb | Eb/G Ab/C | Bb |

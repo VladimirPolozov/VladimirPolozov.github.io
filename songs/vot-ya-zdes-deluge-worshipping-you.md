@@ -1,6 +1,13 @@
 <!-- tg: msg 66 | 2022-06-09T18:30:43 -->
 
-# Вот я здесь (Deluge - Worshipping You) - G
+# Вот я здесь
+
+> **Исполнитель:** Deluge
+> **Оригинал:** Worshipping You
+> **Тональность:** G
+
+
+
 
 Verse
 | G | Em | C | D |

@@ -1,6 +1,13 @@
 <!-- tg: msg 77 | 2022-07-06T23:47:16 -->
 
-# О, как Он любит нас (Crowder - How He loves us) - G
+# О, как Он любит нас
+
+> **Исполнитель:** Crowder
+> **Оригинал:** How He loves us
+> **Тональность:** G
+
+
+
 
 Intro/Verse/Chorus/Bridge
 | G | Em | D | C |

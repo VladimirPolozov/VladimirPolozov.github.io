@@ -1,6 +1,13 @@
 <!-- tg: msg 106 | 2022-09-07T20:28:58 -->
 
-# Другом меня назвал (Israel Houghton - Friend of God) - E
+# Другом меня назвал
+
+> **Исполнитель:** Israel Houghton
+> **Оригинал:** Friend of God
+> **Тональность:** E
+
+
+
 
 Verse
 E | E | C#m | C#m | 

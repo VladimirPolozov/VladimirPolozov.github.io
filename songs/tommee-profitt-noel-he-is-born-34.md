@@ -1,6 +1,13 @@
 <!-- tg: msg 112 | 2022-12-22T19:38:35 -->
 
-# Tommee Profitt - Noel (He is born) - 3/4 - A
+# Noel (He is born)
+
+> **Исполнитель:** Tommee Profitt
+> **Оригинал:** Noel (He is born)
+> **Тональность:** 3/4 - A
+
+
+
 
 Verse
 | A | A/G# | D2/F# | A/E |

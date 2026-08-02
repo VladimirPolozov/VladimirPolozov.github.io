@@ -1,6 +1,13 @@
 <!-- tg: msg 162 | 2023-10-29T09:46:26 -->
 
-# Силен спасти (Hillsong United - Mighty to save) - G
+# Силен спасти
+
+> **Исполнитель:** Hillsong United
+> **Оригинал:** Mighty to save
+> **Тональность:** G
+
+
+
 
 Verse (Нужно всем сострадание…)
 | C | G | Em | D |

@@ -1,6 +1,13 @@
 <!-- tg: msg 245 | 2025-05-03T14:48:06 -->
 
-# Прихожу к Тебе я (Terry MacAlmon - You Deserve the Glory) - A
+# Прихожу к Тебе я
+
+> **Исполнитель:** Terry MacAlmon
+> **Оригинал:** You Deserve the Glory
+> **Тональность:** A
+
+
+
 
 Куплет (Прихожу к Тебе я с хвалою)
 A | C#m F#m | Hm | Dm E |

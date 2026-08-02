@@ -1,6 +1,13 @@
 <!-- tg: msg 30 | 2022-02-28T15:09:24 -->
 
-# Я знаю, кто я в Тебе (Hillsong Worship - Who You say I am) - Hb
+# Я знаю, кто я в Тебе
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** Who You say I am
+> **Тональность:** Hb
+
+
+
 
 Intro
 Hb

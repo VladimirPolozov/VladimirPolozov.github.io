@@ -1,6 +1,13 @@
 <!-- tg: msg 104 | 2022-09-01T17:35:42 -->
 
-# Не остановлюсь я (Misty Edwards - Only a Shadow) - D
+# Не остановлюсь я
+
+> **Исполнитель:** Misty Edwards
+> **Оригинал:** Only a Shadow
+> **Тональность:** D
+
+
+
 
 Verse/Chorus
 | D | Gm/D | D | Gm6/D |

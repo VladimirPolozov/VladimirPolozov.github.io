@@ -1,6 +1,13 @@
 <!-- tg: msg 192 | 2024-08-07T11:24:24 -->
 
-# Иисус, Ты любовь моя (Hillsong Worship - Jesus Lover of my soul) - G
+# Иисус, Ты любовь моя
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** Jesus Lover of my soul
+> **Тональность:** G
+
+
+
 
 | G | D | Em | C D |
 

@@ -1,6 +1,13 @@
 <!-- tg: msg 78 | 2022-07-06T23:48:08 -->
 
-# Прикосновение Небес (Hillsong Worship - Touch of Heaven) - G
+# Прикосновение Небес
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** Touch of Heaven
+> **Тональность:** G
+
+
+
 
 Вступление
 | Cadd9 | Em7 | G | Dsus4 |

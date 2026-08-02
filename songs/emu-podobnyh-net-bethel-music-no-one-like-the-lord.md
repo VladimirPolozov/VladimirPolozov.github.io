@@ -1,6 +1,13 @@
 <!-- tg: msg 237 | 2025-02-24T16:20:11 -->
 
-# Ему подобных нет (Bethel Music - No one like the Lord) - Am
+# Ему подобных нет
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** No one like the Lord
+> **Тональность:** Am
+
+
+
 
 Вступление
 Am G/B | C Dm7 | 

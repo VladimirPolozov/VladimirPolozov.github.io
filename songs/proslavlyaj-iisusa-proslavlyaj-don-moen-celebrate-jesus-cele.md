@@ -1,6 +1,13 @@
 <!-- tg: msg 51 | 2022-04-18T17:05:20 -->
 
-# Прославляй Иисуса, прославляй (Don Moen - Celebrate Jesus, celebrate) - E
+# Прославляй Иисуса, прославляй
+
+> **Исполнитель:** Don Moen
+> **Оригинал:** Celebrate Jesus, celebrate
+> **Тональность:** E
+
+
+
 
 Intro/Verse
 E | A/E H/E | E | A H |

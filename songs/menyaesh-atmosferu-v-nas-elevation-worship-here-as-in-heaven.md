@@ -1,6 +1,13 @@
 <!-- tg: msg 251 | 2025-05-27T13:04:43 -->
 
-# Меняешь атмосферу в нас (Elevation Worship - Here as in Heaven) - C
+# Меняешь атмосферу в нас
+
+> **Исполнитель:** Elevation Worship
+> **Оригинал:** Here as in Heaven
+> **Тональность:** C
+
+
+
 
 Вступление
 F | C |

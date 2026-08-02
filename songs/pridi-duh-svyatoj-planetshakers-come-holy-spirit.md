@@ -1,6 +1,13 @@
 <!-- tg: msg 65 | 2022-06-09T18:22:35 -->
 
-# Приди Дух Святой (Planetshakers - Come Holy Spirit) - G
+# Приди Дух Святой
+
+> **Исполнитель:** Planetshakers
+> **Оригинал:** Come Holy Spirit
+> **Тональность:** G
+
+
+
 
 Intro
  Em D/F# G | C |

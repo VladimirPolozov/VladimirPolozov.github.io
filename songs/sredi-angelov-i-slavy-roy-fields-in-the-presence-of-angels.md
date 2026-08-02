@@ -1,6 +1,13 @@
 <!-- tg: msg 132 | 2023-02-08T09:12:29 -->
 
-# Среди ангелов и славы (Roy Fields - In the presence of angels) - G
+# Среди ангелов и славы
+
+> **Исполнитель:** Roy Fields
+> **Оригинал:** In the presence of angels
+> **Тональность:** G
+
+
+
 
 | Am Em | G D |
 

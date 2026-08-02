@@ -1,6 +1,13 @@
 <!-- tg: msg 57 | 2022-04-28T17:35:53 -->
 
-# Всё возьми (Hillsong United - Take it all) - H
+# Всё возьми
+
+> **Исполнитель:** Hillsong United
+> **Оригинал:** Take it all
+> **Тональность:** H
+
+
+
 
 Intro
 H | H A# D# |

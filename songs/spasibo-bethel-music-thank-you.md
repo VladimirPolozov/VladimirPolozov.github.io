@@ -1,6 +1,13 @@
 <!-- tg: msg 105 | 2022-09-07T20:27:58 -->
 
-# Спасибо (Bethel Music - Thank You) - Bb
+# Спасибо
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** Thank You
+> **Тональность:** Bb
+
+
+
 
 Verse
  Bb | Eb | F | Bb |

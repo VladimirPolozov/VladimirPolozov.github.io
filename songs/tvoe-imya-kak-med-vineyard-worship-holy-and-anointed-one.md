@@ -1,6 +1,13 @@
 <!-- tg: msg 123 | 2023-01-22T11:39:56 -->
 
-# Твоё Имя, как мёд (Vineyard Worship - Holy and Anointed One) - G
+# Твоё Имя, как мёд
+
+> **Исполнитель:** Vineyard Worship
+> **Оригинал:** Holy and Anointed One
+> **Тональность:** G
+
+
+
 
 Verse
 | G Hm7 | C |

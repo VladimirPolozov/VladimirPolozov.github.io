@@ -1,6 +1,13 @@
 <!-- tg: msg 188 | 2024-06-27T20:03:43 -->
 
-# Свободны мы (Planetshakers - We are free) - A
+# Свободны мы
+
+> **Исполнитель:** Planetshakers
+> **Оригинал:** We are free
+> **Тональность:** A
+
+
+
 
 Intro
 A | E | F#m | D |

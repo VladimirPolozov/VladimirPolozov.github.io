@@ -1,6 +1,13 @@
 <!-- tg: msg 53 | 2022-04-18T17:55:07 -->
 
-# О, этот день (Voice of Children’s Choir - Oh, Happy Day) - E
+# О, этот день
+
+> **Исполнитель:** Voice of Children’s Choir
+> **Оригинал:** Oh, Happy Day
+> **Тональность:** E
+
+
+
 
 E | A/E | E | A/E |
 E | A/E | E | A/H |

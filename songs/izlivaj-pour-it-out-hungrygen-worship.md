@@ -1,6 +1,13 @@
 <!-- tg: msg 273 | 2026-03-01T12:38:12 -->
 
-# Изливай (Pour it Out - Hungrygen Worship) - C#m
+# Изливай
+
+> **Исполнитель:** Hungrygen Worship
+> **Оригинал:** Pour it Out
+> **Тональность:** C#m
+
+
+
 
 Вступление:
 C#m | A | E | G#m |

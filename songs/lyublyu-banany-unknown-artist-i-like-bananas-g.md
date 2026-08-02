@@ -1,6 +1,13 @@
 <!-- tg: msg 196 | 2024-08-12T16:53:25 -->
 
-# Люблю бананы (Unknown artist – I like bananas) – G
+# Люблю бананы
+
+> **Исполнитель:** Unknown artist
+> **Оригинал:** I like bananas
+> **Тональность:** G
+
+
+
 
 Chorus
 G | G | Em | Em |

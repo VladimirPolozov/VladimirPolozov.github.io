@@ -1,6 +1,13 @@
 <!-- tg: msg 231 | 2025-01-29T14:10:53 -->
 
-# Любовь Твоя Верна (Jesus Culture - Your Love Never Fails) - G
+# Любовь Твоя Верна
+
+> **Исполнитель:** Jesus Culture
+> **Оригинал:** Your Love Never Fails
+> **Тональность:** G
+
+
+
 
 Вступление 
 Em | C | G | D | 

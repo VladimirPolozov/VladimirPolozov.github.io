@@ -1,6 +1,13 @@
 <!-- tg: msg 58 | 2022-04-28T18:02:09 -->
 
-# Бог, ищу Тебя (Bethel Music - God I look to You) - C
+# Бог, ищу Тебя
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** God I look to You
+> **Тональность:** C
+
+
+
 
 Intro
 C | G | F | Am G |

@@ -1,6 +1,13 @@
 <!-- tg: msg 108 | 2022-09-22T18:58:41 -->
 
-# Никогда (Matt Redman - Never Once) - G
+# Никогда
+
+> **Исполнитель:** Matt Redman
+> **Оригинал:** Never Once
+> **Тональность:** G
+
+
+
 
 Intro/Verse
 | G | D | Em | C |

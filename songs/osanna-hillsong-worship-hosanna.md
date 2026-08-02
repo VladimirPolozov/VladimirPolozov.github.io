@@ -1,6 +1,13 @@
 <!-- tg: msg 209 | 2024-10-23T12:48:33 -->
 
-# Осанна (Hillsong Worship - Hosanna) - C#m
+# Осанна
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** Hosanna
+> **Тональность:** C#m
+
+
+
 
 Вступление
 C#m7 | Emaj | F#m7 | G#m7 |

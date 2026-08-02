@@ -1,6 +1,13 @@
 <!-- tg: msg 69 | 2022-06-11T16:59:43 -->
 
-# Ничего нет лучше, чем Ты (Elevation Worship - Graves into gardens) - G (6/8)
+# Ничего нет лучше, чем Ты
+
+> **Исполнитель:** Elevation Worship
+> **Оригинал:** Graves into gardens
+> **Тональность:** G (6/8)
+
+
+
 
 Intro
  G | G C/G |

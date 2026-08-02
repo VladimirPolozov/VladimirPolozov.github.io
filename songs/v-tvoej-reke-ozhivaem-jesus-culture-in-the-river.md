@@ -1,6 +1,13 @@
 <!-- tg: msg 35 | 2022-03-14T13:40:11 -->
 
-# В Твоей реке оживаем (Jesus Culture - In the River) - G
+# В Твоей реке оживаем
+
+> **Исполнитель:** Jesus Culture
+> **Оригинал:** In the River
+> **Тональность:** G
+
+
+
 
 Intro / Verse / Chorus / Bridge
 C | Am | Em | G/H |

@@ -1,6 +1,13 @@
 <!-- tg: msg 79 | 2022-07-06T23:51:44 -->
 
-# Шторм (John Thurlow - Storm all around You) - Em
+# Шторм
+
+> **Исполнитель:** John Thurlow
+> **Оригинал:** Storm all around You
+> **Тональность:** Em
+
+
+
 
 Куплет
 | C D | Em |

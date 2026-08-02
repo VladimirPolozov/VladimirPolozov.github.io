@@ -1,6 +1,13 @@
 <!-- tg: msg 195 | 2024-08-12T16:50:25 -->
 
-# Иисус - мой супергерой (Hillsong Kids - Jesus is my superhero) - D
+# Иисус - мой супергерой
+
+> **Исполнитель:** Hillsong Kids
+> **Оригинал:** Jesus is my superhero
+> **Тональность:** D
+
+
+
 
 Intro
 D  A | Hm G | 

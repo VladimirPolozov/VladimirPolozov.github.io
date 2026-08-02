@@ -1,6 +1,13 @@
 <!-- tg: msg 49 | 2022-04-18T16:54:07 -->
 
-# Всемогущий Бог (Kirk Franklin - He reigns) - Dm
+# Всемогущий Бог
+
+> **Исполнитель:** Kirk Franklin
+> **Оригинал:** He reigns
+> **Тональность:** Dm
+
+
+
 
 Intro
 Dm A7 | A7 Dm | x3

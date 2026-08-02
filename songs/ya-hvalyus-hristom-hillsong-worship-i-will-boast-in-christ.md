@@ -1,6 +1,13 @@
 <!-- tg: msg 274 | 2026-03-21T12:27:39 -->
 
-# Я хвалюсь Христом (Hillsong Worship - I Will Boast In Christ) - Em
+# Я хвалюсь Христом
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** I Will Boast In Christ
+> **Тональность:** Em
+
+
+
 
 Куплет (Блaгoдapeн я Ииcуcу)
 | Em C | G D |

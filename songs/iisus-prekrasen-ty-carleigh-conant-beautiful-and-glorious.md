@@ -1,6 +1,13 @@
 <!-- tg: msg 125 | 2023-01-26T18:10:54 -->
 
-# Иисус, прекрасен Ты (Carleigh Conant - Beautiful and Glorious) - Hm
+# Иисус, прекрасен Ты
+
+> **Исполнитель:** Carleigh Conant
+> **Оригинал:** Beautiful and Glorious
+> **Тональность:** Hm
+
+
+
 
 Verse/Bridge
 | G | Hm | D | A |

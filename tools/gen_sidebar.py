@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Генерирует _sidebar.md по папке songs/ (по алфавиту)."""
+"""Устаревший скрипт: используйте tools/build.py (учитывает метаданные
+из tools/song_meta.py и генерирует ещё страницы исполнителей)."""
 import re
 import sys
 from pathlib import Path

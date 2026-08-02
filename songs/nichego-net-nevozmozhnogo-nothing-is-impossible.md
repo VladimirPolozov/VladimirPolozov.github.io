@@ -1,6 +1,12 @@
 <!-- tg: msg 56 | 2022-04-28T17:19:04 -->
 
-# Ничего нет невозможного (Nothing is impossible) - A
+# Ничего нет невозможного
+
+> **Оригинал:** Nothing is impossible
+> **Тональность:** A
+
+
+
 
 Chorus:
 A | A | E | E | F#m | F#m | D | D |

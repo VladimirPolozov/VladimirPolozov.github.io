@@ -1,6 +1,12 @@
 <!-- tg: msg 75 | 2022-07-03T23:46:30 -->
 
-# Барух Адонай (Paul Wilbur - Baruch Adonai)
+# Барух Адонай
+
+> **Исполнитель:** Paul Wilbur
+> **Оригинал:** Baruch Adonai
+
+
+
 
 Куплет
 Dm Gm | Gm C | Dm Gm | Bb C Dm |

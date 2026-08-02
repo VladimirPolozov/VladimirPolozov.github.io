@@ -1,6 +1,13 @@
 <!-- tg: msg 95 | 2022-08-03T20:03:22 -->
 
-# Живу Тобой (Jesus Culture - Alive in You) - H
+# Живу Тобой
+
+> **Исполнитель:** Jesus Culture
+> **Оригинал:** Alive in You
+> **Тональность:** H
+
+
+
 
 Intro
  H C#m• | G#m E• |

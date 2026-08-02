@@ -1,6 +1,13 @@
 <!-- tg: msg 279 | 2026-06-10T14:11:23 -->
 
-# Царь Величия (Hillsong Worship - King of Majesty) - G
+# Царь Величия
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** King of Majesty
+> **Тональность:** G
+
+
+
 
 Вступление
 | G C | D C |

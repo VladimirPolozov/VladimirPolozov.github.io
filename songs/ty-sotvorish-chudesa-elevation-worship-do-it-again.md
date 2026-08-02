@@ -1,6 +1,13 @@
 <!-- tg: msg 100 | 2022-08-11T18:43:49 -->
 
-# Ты сотворишь чудеса (Elevation Worship - Do it again) - Bb
+# Ты сотворишь чудеса
+
+> **Исполнитель:** Elevation Worship
+> **Оригинал:** Do it again
+> **Тональность:** Bb
+
+
+
 
 Intro
 | Eb | Eb | Bb/D | Bb/D |

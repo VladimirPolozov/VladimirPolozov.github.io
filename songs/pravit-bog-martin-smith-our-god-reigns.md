@@ -1,6 +1,13 @@
 <!-- tg: msg 101 | 2022-08-31T17:54:30 -->
 
-# Правит Бог (Martin Smith - Our God Reigns) - E
+# Правит Бог
+
+> **Исполнитель:** Martin Smith
+> **Оригинал:** Our God Reigns
+> **Тональность:** E
+
+
+
 
 | A | A••• H• | C#m | C#m H/D# | E | E |
 

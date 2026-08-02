@@ -1,6 +1,13 @@
 <!-- tg: msg 15 | 2022-02-10T22:52:00 -->
 
-# Царь сердца моего (Bethel Music - King of my heart) - G
+# Царь сердца моего
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** King of my heart
+> **Тональность:** G
+
+
+
 
 Verse: 
 G | C G | Em D | C G |

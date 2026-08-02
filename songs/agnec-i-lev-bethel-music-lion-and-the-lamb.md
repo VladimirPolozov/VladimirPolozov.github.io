@@ -1,6 +1,13 @@
 <!-- tg: msg 142 | 2023-02-18T00:10:19 -->
 
-# Агнец и лев (Bethel Music - Lion and the lamb) - G
+# Агнец и лев
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** Lion and the lamb
+> **Тональность:** G
+
+
+
 
 Intro
 | G | G Am | C | C |

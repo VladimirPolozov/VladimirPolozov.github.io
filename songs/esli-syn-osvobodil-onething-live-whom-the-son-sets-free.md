@@ -1,6 +1,13 @@
 <!-- tg: msg 280 | 2026-06-12T13:22:30 -->
 
-# Если Сын освободил (Onething Live - Whom the Son sets free) - G
+# Если Сын освободил
+
+> **Исполнитель:** Onething Live
+> **Оригинал:** Whom the Son sets free
+> **Тональность:** G
+
+
+
 
 Припев 1
 | G |

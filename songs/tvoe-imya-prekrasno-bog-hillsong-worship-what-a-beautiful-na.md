@@ -1,6 +1,13 @@
 <!-- tg: msg 40 | 2022-03-22T15:58:20 -->
 
-# Твоё имя прекрасно Бог (Hillsong Worship - What a beautiful name) - D
+# Твоё имя прекрасно Бог
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** What a beautiful name
+> **Тональность:** D
+
+
+
 
 Verse
 | D | D | G Hm | A |

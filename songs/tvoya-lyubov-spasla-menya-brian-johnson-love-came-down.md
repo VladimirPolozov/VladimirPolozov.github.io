@@ -1,6 +1,13 @@
 <!-- tg: msg 134 | 2023-02-09T19:18:04 -->
 
-# Твоя любовь спасла меня (Brian Johnson - Love came down) - G
+# Твоя любовь спасла меня
+
+> **Исполнитель:** Brian Johnson
+> **Оригинал:** Love came down
+> **Тональность:** G
+
+
+
 
 Verse
 | Cmaj7 | Em D | Cmaj7 | G D | x2

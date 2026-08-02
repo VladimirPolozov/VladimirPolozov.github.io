@@ -1,6 +1,13 @@
 <!-- tg: msg 115 | 2023-01-07T22:33:09 -->
 
-# Один путь — Иисус (Hillsong United - One way) - Hb
+# Один путь - Иисус
+
+> **Исполнитель:** Hillsong United
+> **Оригинал:** One way
+> **Тональность:** Hb
+
+
+
 
 Intro/Verse
  Hb | Hb | Gm | Gm |

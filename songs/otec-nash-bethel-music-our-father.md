@@ -1,6 +1,13 @@
 <!-- tg: msg 68 | 2022-06-11T16:00:06 -->
 
-# Отец наш (Bethel Music - Our Father) - G
+# Отец наш
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** Our Father
+> **Тональность:** G
+
+
+
 
 Intro
  G | G | C/E | C |

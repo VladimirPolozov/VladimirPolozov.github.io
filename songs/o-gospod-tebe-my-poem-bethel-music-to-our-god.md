@@ -1,6 +1,13 @@
 <!-- tg: msg 169 | 2023-12-31T10:12:58 -->
 
-# О, Господь, Тебе мы поём (Bethel Music - To our God) - Em
+# О, Господь, Тебе мы поём
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** To our God
+> **Тональность:** Em
+
+
+
 
 Intro/Interlude
  C Em | G | C Em | D |

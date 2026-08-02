@@ -1,6 +1,13 @@
 <!-- tg: msg 32 | 2022-02-28T15:09:46 -->
 
-# Ты сильнее (Hillsong Worship - Stronger) - C
+# Ты сильнее
+
+> **Исполнитель:** Hillsong Worship
+> **Оригинал:** Stronger
+> **Тональность:** C
+
+
+
 
 Intro
 F | C/E | F | C/E |

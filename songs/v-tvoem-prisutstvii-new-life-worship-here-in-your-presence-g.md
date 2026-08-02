@@ -1,6 +1,13 @@
 <!-- tg: msg 210 | 2024-10-23T15:42:22 -->
 
-# В Твоём присутствии (New Life Worship - Here in Your presence) - G (6/8)
+# В Твоём присутствии
+
+> **Исполнитель:** New Life Worship
+> **Оригинал:** Here in Your presence
+> **Тональность:** G (6/8)
+
+
+
 
 Куплет (Радости и света...)
 G | G | Am | Am |

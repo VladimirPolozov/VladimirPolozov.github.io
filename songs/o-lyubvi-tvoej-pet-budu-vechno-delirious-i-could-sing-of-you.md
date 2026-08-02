@@ -1,6 +1,13 @@
 <!-- tg: msg 135 | 2023-02-10T10:51:49 -->
 
-# О любви Твоей петь буду вечно (Delirious? - I could sing of Your love) - F
+# О любви Твоей петь буду вечно
+
+> **Исполнитель:** Delirious?
+> **Оригинал:** I could sing of Your love
+> **Тональность:** F
+
+
+
 
 | F | Gm | Bb | C |
 

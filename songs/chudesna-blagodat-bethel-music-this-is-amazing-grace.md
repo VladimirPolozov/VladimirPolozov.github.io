@@ -1,6 +1,13 @@
 <!-- tg: msg 218 | 2024-11-15T12:19:53 -->
 
-# Чудесна благодать (Bethel Music - This is amazing grace) - C
+# Чудесна благодать
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** This is amazing grace
+> **Тональность:** C
+
+
+
 
 Вступление
 | C | C | F | F |

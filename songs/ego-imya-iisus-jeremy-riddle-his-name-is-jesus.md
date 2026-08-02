@@ -1,6 +1,13 @@
 <!-- tg: msg 165 | 2023-12-30T16:00:55 -->
 
-# Его имя Иисус (Jeremy Riddle - His name is Jesus) - Dm
+# Его имя Иисус
+
+> **Исполнитель:** Jeremy Riddle
+> **Оригинал:** His name is Jesus
+> **Тональность:** Dm
+
+
+
 
 Dm | Dm | F | F |
  Gm | Gm | Hb | C |

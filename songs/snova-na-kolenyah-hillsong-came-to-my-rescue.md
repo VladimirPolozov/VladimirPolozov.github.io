@@ -1,6 +1,13 @@
 <!-- tg: msg 37 | 2022-03-14T13:49:17 -->
 
-# Снова на коленях (Hillsong - Came to my rescue) - E
+# Снова на коленях
+
+> **Исполнитель:** Hillsong
+> **Оригинал:** Came to my rescue
+> **Тональность:** E
+
+
+
 
 Verse/ Chorus
 E | H/D# | C#m | A |

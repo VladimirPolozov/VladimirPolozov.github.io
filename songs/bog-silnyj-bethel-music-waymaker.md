@@ -1,6 +1,13 @@
 <!-- tg: msg 61 | 2022-05-19T08:30:23 -->
 
-# Бог сильный (Bethel Music - Waymaker) - A
+# Бог сильный
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** Waymaker
+> **Тональность:** A
+
+
+
 
 Verse/Chorus/Bridge
 D | A | E | F#m |

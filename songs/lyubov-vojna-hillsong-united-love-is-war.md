@@ -1,6 +1,13 @@
 <!-- tg: msg 59 | 2022-04-28T18:10:42 -->
 
-# Любовь - война (Hillsong United - Love is War) - Hb
+# Любовь - война
+
+> **Исполнитель:** Hillsong United
+> **Оригинал:** Love is War
+> **Тональность:** Hb
+
+
+
 
 Intro/Verse
 F Gm | Eb |

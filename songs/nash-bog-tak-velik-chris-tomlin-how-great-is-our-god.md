@@ -1,6 +1,13 @@
 <!-- tg: msg 283 | 2026-07-26T01:26:21 -->
 
-# Наш Бог так велик (Chris Tomlin - How great is our God) - G
+# Наш Бог так велик
+
+> **Исполнитель:** Chris Tomlin
+> **Оригинал:** How great is our God
+> **Тональность:** G
+
+
+
 
 Куплет (В сиянии Царя)
 | G | G | Em | Em | C | C |

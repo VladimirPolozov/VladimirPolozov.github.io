@@ -1,6 +1,13 @@
 <!-- tg: msg 96 | 2022-08-03T20:21:56 -->
 
-# Знаю, меня победа ждёт (Elevation Worship - See a Victory) - G
+# Знаю, меня победа ждёт
+
+> **Исполнитель:** Elevation Worship
+> **Оригинал:** See a Victory
+> **Тональность:** G
+
+
+
 
 Intro
 Em C | G | x2

@@ -1,6 +1,13 @@
 <!-- tg: msg 136 | 2023-02-10T14:21:21 -->
 
-# Я не буду рабом греха (Bethel Music - No longer slaves) - G
+# Я не буду рабом греха
+
+> **Исполнитель:** Bethel Music
+> **Оригинал:** No longer slaves
+> **Тональность:** G
+
+
+
 
 Verse
 | G | G | C D | G |

@@ -1,6 +1,13 @@
 <!-- tg: msg 26 | 2022-02-24T13:41:31 -->
 
-# Все народы, дружно хлопайте (Charlie LeBlanc - Clap your hands all ye people) - E
+# Все народы, дружно хлопайте
+
+> **Исполнитель:** Charlie LeBlanc
+> **Оригинал:** Clap your hands all ye people
+> **Тональность:** E
+
+
+
 
 Verse 1 (Все народы)
 E | A E | H | E E/G# A H |

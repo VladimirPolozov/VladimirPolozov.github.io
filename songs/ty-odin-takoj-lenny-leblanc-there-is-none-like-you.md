@@ -1,6 +1,12 @@
 <!-- tg: msg 151 | 2023-03-24T08:33:52 -->
 
-# Ты Один такой (Lenny LeBlanc - There is none like You)
+# Ты Один такой
+
+> **Исполнитель:** Lenny LeBlanc
+> **Оригинал:** There is none like You
+
+
+
 
 Chorus (Ты Один, There is  none) 
 G D/F# | C/E G/D | C G/H | Am D | 
