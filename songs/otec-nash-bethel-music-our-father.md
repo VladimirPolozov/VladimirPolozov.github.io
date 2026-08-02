@@ -25,9 +25,3 @@ Bridge
 
 Bridge 2
  C | C ••• D • | Em | G/H |
-
-## Примечания
-
-Key: B
-
-Electric Guitar Tutorial 🎸 | Bethel Music

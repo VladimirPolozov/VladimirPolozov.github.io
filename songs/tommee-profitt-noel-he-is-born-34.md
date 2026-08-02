@@ -59,8 +59,3 @@ Chorus 3
 ## Слушать
 
 - https://www.worshiptogether.com/songs/noel-he-is-born-tommee-profitt/
-
-## Примечания
-
-Оригинальная тонально: E (+ модуляция на тон)
-Слушать 🎧

@@ -60,8 +60,3 @@ C | G/H | Dm | F G |
 ## Слушать
 
 - https://m.youtube.com/watch?v=6s6RuoH9pME
-
-## Примечания
-
-В конце куплета G
-© Пастор Владимир

@@ -40,14 +40,3 @@ Am | Em | F G | Am |
 ## Слушать
 
 - https://m.youtube.com/watch?v=ZP0YSnxGBt8
-
-## Примечания
-
-Это аккорды припева. Надо ещё аккорды Куплета Кто как Ты
-
-Hm Em Hm A F#m Hm 
-Em Hm Em Hm A F#m Hm
-
-Hm F#m GA Hm 
-
-Hm F#m GA Hm

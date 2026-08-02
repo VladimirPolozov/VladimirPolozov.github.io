@@ -52,7 +52,3 @@
 ## Слушать
 
 - https://m.youtube.com/watch?v=mTnmkOg270E
-
-## Примечания
-
-Live/Lyrics and chords ➡️

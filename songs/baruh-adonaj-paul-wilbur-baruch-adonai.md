@@ -80,7 +80,3 @@ Dm | C |
 ## Слушать
 
 - https://m.youtube.com/watch?v=AlMdR6H_8VY
-
-## Примечания
-
-Оригинал, вот это да

@@ -23,10 +23,3 @@ Bridge
 | Fmaj Fmaj Fmaj G |
 | Am Am Am Cmaj |
 | Dm7 | F Esus |
-
-## Примечания
-
-Слушать 🎧
-A minor
-
-А слова можно ?

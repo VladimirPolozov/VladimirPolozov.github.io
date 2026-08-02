@@ -104,7 +104,3 @@ Am | Cmaj7 | D | F |
 - https://youtu.be/HsJrgvwyAJ0?si=m8zJaqUZMYCUsSU1
 
 - https://youtu.be/NlGrNNyj_NE?si=kTYGzfgbvzcdxC-M
-
-## Примечания
-
-Тональность - Еm

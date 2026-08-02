@@ -30,9 +30,3 @@ A | E | D | D |
 
  Bridge 
 A | E F#m | D | D |
-
-## Примечания
-
-Слушать 🎧
-G major
-124 BPM

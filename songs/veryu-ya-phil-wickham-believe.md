@@ -75,11 +75,3 @@
 ## Слушать
 
 - https://youtu.be/6rf4Nfeftz0?si=Pq5MBxqMJAw8uKW8
-
-## Примечания
-
-Wolrus WORSHIP - Верю я
-Ля мажор
-
-Phil Wickham - I Believe
-Ре мажор

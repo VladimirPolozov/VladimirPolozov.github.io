@@ -22,7 +22,3 @@ Chorus
 Bridge 
  Hb | F | Gm | Eb | 
  Gm | F | Eb | Eb |
-
-## Примечания
-
-H major / 135bpm

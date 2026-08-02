@@ -77,17 +77,3 @@ Bridge
 В море сделать дорогу -
 Это можешь только Ты!
 Это можешь только Ты!
-
-## Примечания
-
-Key: H
-
-Official piano tutorial
-
-Official acoustic guitar tutorial
-
-Official electric guitar tutorial
-
-Official bass guitar tutorial
-
-Official drums tutorial

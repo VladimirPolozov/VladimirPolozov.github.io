@@ -76,10 +76,3 @@ IV I | V i | IV I | i V // x2
 
 Bridge:
 IV V• | i iv• | I iv• | I (V)
-
-## Примечания
-
-Оригинальная тональность: G
-Слушать на YouTube 🎧
-
-🎸 Electric guitar tutorial
