@@ -1,7 +1,6 @@
 (function () {
   'use strict';
 
-  var LS_KEY = 'rcc_chords_transpose';
   var offset = 0;
   var baseKey = null;
 
@@ -18,19 +17,8 @@
     return Math.max(-11, Math.min(11, n));
   }
 
-  function load() {
-    try {
-      var v = parseInt(localStorage.getItem(LS_KEY), 10);
-      offset = isNaN(v) ? 0 : clamp(v);
-    } catch (e) {
-      offset = 0;
-    }
-  }
-
-  function save() {
-    try {
-      localStorage.setItem(LS_KEY, String(offset));
-    } catch (e) {}
+  function reset() {
+    offset = 0;
   }
 
   function captureBaseKey() {
@@ -124,7 +112,6 @@
       if (d === 'up') offset = clamp(offset + 1);
       else if (d === 'down') offset = clamp(offset - 1);
       else offset = 0;
-      save();
       applyTranspose();
     });
     document.body.appendChild(bar);
@@ -143,7 +130,7 @@
     hook.doneEach(function () {
       injectStyle();
       buildBar();
-      load();
+      reset();
       if (!baseKey) baseKey = captureBaseKey();
       applyTranspose();
     });
