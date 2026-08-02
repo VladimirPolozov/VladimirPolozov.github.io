@@ -5,7 +5,7 @@ key: D
 
 # Дух Господень на мне
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** D
 
 

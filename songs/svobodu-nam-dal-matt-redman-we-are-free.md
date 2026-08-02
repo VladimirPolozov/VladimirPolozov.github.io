@@ -5,7 +5,7 @@ key: G
 
 # Свободу нам дал
 
-> **Исполнитель:** Matt Redman
+> **Исполнитель:** [Matt Redman](/artists/matt-redman)
 > **Оригинальное название:** We Are Free
 > **Тональность:** G
 

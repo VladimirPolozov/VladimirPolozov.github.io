@@ -5,7 +5,7 @@ key: G
 
 # Превыше всех
 
-> **Исполнитель:** Subcultura
+> **Исполнитель:** [Subcultura](/artists/subcultura)
 > **Тональность:** G
 
 

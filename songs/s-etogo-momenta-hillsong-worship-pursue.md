@@ -5,7 +5,7 @@ key: C#m
 
 # С этого момента
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Pursue
 > **Тональность:** C#m
 

@@ -5,7 +5,7 @@ key: G
 
 # Славь
 
-> **Исполнитель:** Elevation Worship
+> **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
 > **Оригинальное название:** Praise
 > **Тональность:** G
 

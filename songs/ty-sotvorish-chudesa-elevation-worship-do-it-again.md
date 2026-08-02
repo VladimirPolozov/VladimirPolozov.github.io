@@ -5,7 +5,7 @@ key: Bb
 
 # Ты сотворишь чудеса
 
-> **Исполнитель:** Elevation Worship
+> **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
 > **Оригинальное название:** Do it again
 > **Тональность:** Bb
 

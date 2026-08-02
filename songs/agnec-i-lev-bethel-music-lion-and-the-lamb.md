@@ -5,7 +5,7 @@ key: G
 
 # Агнец и лев
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Lion and the lamb
 > **Тональность:** G
 

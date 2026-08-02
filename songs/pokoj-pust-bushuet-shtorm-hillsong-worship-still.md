@@ -5,7 +5,7 @@ key: E
 
 # Покой
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Still
 > **Также:** Пусть бушует шторм
 > **Тональность:** E

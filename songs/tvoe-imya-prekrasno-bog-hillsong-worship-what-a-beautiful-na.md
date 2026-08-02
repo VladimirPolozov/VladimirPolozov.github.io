@@ -5,7 +5,7 @@ key: D
 
 # Твоё имя прекрасно Бог
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** What a beautiful name
 > **Тональность:** D
 

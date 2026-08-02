@@ -5,7 +5,7 @@ key: E
 
 # Правит Бог
 
-> **Исполнитель:** Martin Smith
+> **Исполнитель:** [Martin Smith](/artists/martin-smith)
 > **Оригинальное название:** Our God Reigns
 > **Тональность:** E
 

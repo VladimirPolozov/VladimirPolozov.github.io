@@ -5,7 +5,7 @@ key: G
 
 # Дип-дип
 
-> **Исполнитель:** Unknown artist
+> **Исполнитель:** [Unknown artist](/artists/unknown-artist)
 > **Тональность:** G
 
 

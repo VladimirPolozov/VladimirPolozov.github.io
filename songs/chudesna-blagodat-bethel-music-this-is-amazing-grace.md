@@ -5,7 +5,7 @@ key: C
 
 # Чудесна благодать
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** This is amazing grace
 > **Тональность:** C
 

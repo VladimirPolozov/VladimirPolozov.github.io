@@ -5,7 +5,7 @@ key: H
 
 # Всё возьми
 
-> **Исполнитель:** Hillsong United
+> **Исполнитель:** [Hillsong United](/artists/hillsong-united)
 > **Оригинальное название:** Take it all
 > **Тональность:** H
 

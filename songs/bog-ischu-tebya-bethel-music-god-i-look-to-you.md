@@ -5,7 +5,7 @@ key: C
 
 # Бог, ищу Тебя
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** God I look to You
 > **Тональность:** C
 

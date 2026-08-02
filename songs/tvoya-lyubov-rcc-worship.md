@@ -5,7 +5,7 @@ key: E
 
 # Твоя Любовь
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** E
 > **Темп:** 90
 

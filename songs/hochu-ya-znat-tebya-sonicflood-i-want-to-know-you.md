@@ -5,7 +5,7 @@ key: G
 
 # Хочу я знать Тебя
 
-> **Исполнитель:** Sonicflood
+> **Исполнитель:** [Sonicflood](/artists/sonicflood)
 > **Оригинальное название:** I want to know You
 > **Тональность:** G
 

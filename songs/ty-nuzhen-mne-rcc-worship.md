@@ -5,7 +5,7 @@ key: G
 
 # Ты нужен мне
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** G
 
 

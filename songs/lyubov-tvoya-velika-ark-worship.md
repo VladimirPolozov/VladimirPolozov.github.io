@@ -5,7 +5,7 @@ key: G
 
 # Любовь Твоя велика
 
-> **Исполнитель:** ARK WORSHIP
+> **Исполнитель:** [ARK WORSHIP](/artists/ark-worship)
 > **Тональность:** G
 
 

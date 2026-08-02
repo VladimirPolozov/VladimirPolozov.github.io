@@ -5,7 +5,7 @@ key: Hm
 
 # Ты благой Бог
 
-> **Исполнитель:** Crest Music
+> **Исполнитель:** [Crest Music](/artists/crest-music)
 > **Тональность:** Hm
 
 

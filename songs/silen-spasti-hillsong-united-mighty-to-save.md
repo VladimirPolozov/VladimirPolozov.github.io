@@ -5,7 +5,7 @@ key: G
 
 # Силен спасти
 
-> **Исполнитель:** Hillsong United
+> **Исполнитель:** [Hillsong United](/artists/hillsong-united)
 > **Оригинальное название:** Mighty to save
 > **Тональность:** G
 

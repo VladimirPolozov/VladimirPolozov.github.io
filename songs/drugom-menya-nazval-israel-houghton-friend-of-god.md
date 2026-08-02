@@ -5,7 +5,7 @@ key: E
 
 # Другом меня назвал
 
-> **Исполнитель:** Israel Houghton
+> **Исполнитель:** [Israel Houghton](/artists/israel-houghton)
 > **Оригинальное название:** Friend of God
 > **Тональность:** E
 

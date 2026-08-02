@@ -5,7 +5,7 @@ key: C#m
 
 # Осанна
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Hosanna
 > **Тональность:** C#m
 

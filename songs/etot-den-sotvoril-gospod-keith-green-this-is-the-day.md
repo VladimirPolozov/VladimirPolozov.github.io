@@ -5,7 +5,7 @@ key: D
 
 # Этот день сотворил Господь
 
-> **Исполнитель:** Keith Green
+> **Исполнитель:** [Keith Green](/artists/keith-green)
 > **Оригинальное название:** This is the day
 > **Тональность:** D
 

@@ -5,7 +5,7 @@ key: G
 
 # Иисус так нужен мне
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** G
 
 

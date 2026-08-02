@@ -5,7 +5,7 @@ key: H
 
 # Живу Тобой
 
-> **Исполнитель:** Jesus Culture
+> **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
 > **Оригинальное название:** Alive in You
 > **Тональность:** H
 

@@ -5,7 +5,7 @@ key: A
 
 # Ты омой меня
 
-> **Исполнитель:** Carpen Diaz
+> **Исполнитель:** [Carpen Diaz](/artists/carpen-diaz)
 > **Тональность:** A
 
 

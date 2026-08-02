@@ -5,7 +5,7 @@ key: G
 
 # Для Тебя
 
-> **Исполнитель:** Hillsong
+> **Исполнитель:** [Hillsong](/artists/hillsong)
 > **Тональность:** G
 
 

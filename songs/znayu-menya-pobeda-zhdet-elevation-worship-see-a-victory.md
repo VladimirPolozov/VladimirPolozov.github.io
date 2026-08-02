@@ -5,7 +5,7 @@ key: G
 
 # Знаю, меня победа ждёт
 
-> **Исполнитель:** Elevation Worship
+> **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
 > **Оригинальное название:** See a Victory
 > **Тональность:** G
 

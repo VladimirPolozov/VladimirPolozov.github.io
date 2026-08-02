@@ -5,7 +5,7 @@ key: C#m
 
 # Изливай
 
-> **Исполнитель:** Hungrygen Worship
+> **Исполнитель:** [Hungrygen Worship](/artists/hungrygen-worship)
 > **Оригинальное название:** Pour it Out
 > **Тональность:** C#m
 

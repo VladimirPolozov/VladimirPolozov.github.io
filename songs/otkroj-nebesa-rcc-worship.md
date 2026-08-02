@@ -5,7 +5,7 @@ key: A
 
 # Открой Небеса
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** A
 
 

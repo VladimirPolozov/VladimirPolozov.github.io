@@ -5,7 +5,7 @@ key: A
 
 # Петь буду: "Аллилуйя!"
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Raise a Hallelujah
 > **Тональность:** A
 

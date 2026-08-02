@@ -5,7 +5,7 @@ key: G
 
 # Люблю бананы
 
-> **Исполнитель:** Unknown artist
+> **Исполнитель:** [Unknown artist](/artists/unknown-artist)
 > **Оригинальное название:** I like bananas
 > **Тональность:** G
 

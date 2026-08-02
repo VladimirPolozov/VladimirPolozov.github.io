@@ -5,7 +5,7 @@ key: Dm
 
 # Его имя Иисус
 
-> **Исполнитель:** Jeremy Riddle
+> **Исполнитель:** [Jeremy Riddle](/artists/jeremy-riddle)
 > **Оригинальное название:** His name is Jesus
 > **Тональность:** Dm
 

@@ -5,7 +5,7 @@ key: E
 
 # Дитя Царя
 
-> **Исполнитель:** Hillsong Kids
+> **Исполнитель:** [Hillsong Kids](/artists/hillsong-kids)
 > **Оригинальное название:** Royalty
 > **Тональность:** E
 

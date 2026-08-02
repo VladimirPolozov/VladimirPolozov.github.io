@@ -5,7 +5,7 @@ key: Em
 
 # Египет
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Egypt
 > **Тональность:** Em
 

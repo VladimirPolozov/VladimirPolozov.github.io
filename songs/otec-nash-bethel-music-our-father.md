@@ -5,7 +5,7 @@ key: G
 
 # Отец наш
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Our Father
 > **Тональность:** G
 

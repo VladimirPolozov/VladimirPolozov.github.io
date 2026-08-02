@@ -5,7 +5,7 @@ key: Hb
 
 # Я знаю, кто я в Тебе
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Who You say I am
 > **Тональность:** Hb
 

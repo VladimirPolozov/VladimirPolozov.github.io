@@ -5,7 +5,7 @@ key: D
 
 # Хвала на устах моих
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Ever be
 > **Тональность:** D
 

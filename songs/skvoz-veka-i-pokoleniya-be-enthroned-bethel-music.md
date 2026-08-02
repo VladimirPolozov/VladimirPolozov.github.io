@@ -5,7 +5,7 @@ key: A
 
 # Сквозь века и поколения
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Be Enthroned
 > **Тональность:** A
 

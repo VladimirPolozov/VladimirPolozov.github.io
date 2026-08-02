@@ -5,7 +5,7 @@ key: A
 
 # Лишь Христос - камень мой
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Cornerstone
 > **Тональность:** A
 

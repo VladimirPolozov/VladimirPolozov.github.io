@@ -5,7 +5,7 @@ key: H
 
 # Приди ко Мне
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Come to me
 > **Тональность:** H
 

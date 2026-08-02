@@ -5,7 +5,7 @@ key: G
 
 # Твоя любовь спасла меня
 
-> **Исполнитель:** Brian Johnson
+> **Исполнитель:** [Brian Johnson](/artists/brian-johnson)
 > **Оригинальное название:** Love came down
 > **Тональность:** G
 

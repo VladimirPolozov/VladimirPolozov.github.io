@@ -5,7 +5,7 @@ key: Gm
 
 # Буду погружаться
 
-> **Исполнитель:** SokolovBrothers
+> **Исполнитель:** [SokolovBrothers](/artists/sokolovbrothers)
 > **Тональность:** Gm
 
 

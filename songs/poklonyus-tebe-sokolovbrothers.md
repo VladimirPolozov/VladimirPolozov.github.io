@@ -5,7 +5,7 @@ key: G
 
 # Поклонюсь Тебе
 
-> **Исполнитель:** SokolovBrothers
+> **Исполнитель:** [SokolovBrothers](/artists/sokolovbrothers)
 > **Тональность:** G
 
 

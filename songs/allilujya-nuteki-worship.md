@@ -5,7 +5,7 @@ key: G
 
 # Аллилуйя
 
-> **Исполнитель:** Nuteki Worship
+> **Исполнитель:** [Nuteki Worship](/artists/nuteki-worship)
 > **Тональность:** G
 
 

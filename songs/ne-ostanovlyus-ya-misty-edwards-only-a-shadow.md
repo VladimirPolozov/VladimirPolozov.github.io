@@ -5,7 +5,7 @@ key: D
 
 # Не остановлюсь я
 
-> **Исполнитель:** Misty Edwards
+> **Исполнитель:** [Misty Edwards](/artists/misty-edwards)
 > **Оригинальное название:** Only a Shadow
 > **Тональность:** D
 

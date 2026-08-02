@@ -5,7 +5,7 @@ key: A
 
 # Свободны мы
 
-> **Исполнитель:** Planetshakers
+> **Исполнитель:** [Planetshakers](/artists/planetshakers)
 > **Оригинальное название:** We are free
 > **Тональность:** A
 

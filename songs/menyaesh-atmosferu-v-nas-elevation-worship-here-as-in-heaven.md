@@ -5,7 +5,7 @@ key: C
 
 # Меняешь атмосферу в нас
 
-> **Исполнитель:** Elevation Worship
+> **Исполнитель:** [Elevation Worship](/artists/elevation-worship)
 > **Оригинальное название:** Here as in Heaven
 > **Тональность:** C
 

@@ -5,7 +5,7 @@ key: A
 
 # Верю я
 
-> **Исполнитель:** Phil Wickham
+> **Исполнитель:** [Phil Wickham](/artists/phil-wickham)
 > **Оригинальное название:** Believe
 > **Тональность:** A
 

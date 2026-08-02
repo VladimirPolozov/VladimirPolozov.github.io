@@ -5,7 +5,7 @@ key: H
 
 # Любовь бесконечна
 
-> **Исполнитель:** Hillsong United
+> **Исполнитель:** [Hillsong United](/artists/hillsong-united)
 > **Оригинальное название:** Relentless
 > **Тональность:** H
 

@@ -2,7 +2,7 @@
 
 # Ты Один такой
 
-> **Исполнитель:** Lenny LeBlanc
+> **Исполнитель:** [Lenny LeBlanc](/artists/lenny-leblanc)
 > **Оригинальное название:** There is none like You
 
 

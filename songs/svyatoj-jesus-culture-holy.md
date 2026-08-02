@@ -5,7 +5,7 @@ key: Em
 
 # Святой
 
-> **Исполнитель:** Jesus Culture
+> **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
 > **Оригинальное название:** Holy
 > **Тональность:** Em
 

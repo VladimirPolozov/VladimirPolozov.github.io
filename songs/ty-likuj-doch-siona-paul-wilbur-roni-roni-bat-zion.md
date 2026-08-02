@@ -5,7 +5,7 @@ key: Am
 
 # Ты ликуй, дочь Сиона
 
-> **Исполнитель:** Paul Wilbur
+> **Исполнитель:** [Paul Wilbur](/artists/paul-wilbur)
 > **Оригинальное название:** Roni Roni Bat Zion
 > **Тональность:** Am
 

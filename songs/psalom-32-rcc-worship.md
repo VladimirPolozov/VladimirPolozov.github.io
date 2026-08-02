@@ -5,7 +5,7 @@ key: E
 
 # Псалом 32
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** E
 
 

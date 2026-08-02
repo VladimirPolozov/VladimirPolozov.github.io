@@ -5,7 +5,7 @@ key: Gm
 
 # Я не верю в потери
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** Gm
 
 

@@ -5,7 +5,7 @@ key: Gm
 
 # Там
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** Gm
 
 

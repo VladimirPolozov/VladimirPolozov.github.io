@@ -5,7 +5,7 @@ key: G
 
 # Твоё Имя, как мёд
 
-> **Исполнитель:** Vineyard Worship
+> **Исполнитель:** [Vineyard Worship](/artists/vineyard-worship)
 > **Оригинальное название:** Holy and Anointed One
 > **Тональность:** G
 

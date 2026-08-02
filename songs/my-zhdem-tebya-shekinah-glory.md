@@ -5,7 +5,7 @@ key: G
 
 # Мы ждём Тебя
 
-> **Исполнитель:** Shekinah Glory
+> **Исполнитель:** [Shekinah Glory](/artists/shekinah-glory)
 > **Тональность:** G
 
 

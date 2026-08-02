@@ -2,7 +2,7 @@
 
 # Барух Адонай
 
-> **Исполнитель:** Paul Wilbur
+> **Исполнитель:** [Paul Wilbur](/artists/paul-wilbur)
 > **Оригинальное название:** Baruch Adonai
 
 

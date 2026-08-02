@@ -5,7 +5,7 @@ key: D
 
 # Сила в Его любви
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** D
 
 

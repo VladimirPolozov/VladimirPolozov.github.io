@@ -5,7 +5,7 @@ key: H
 
 # Мы славим Тебя
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** H
 
 

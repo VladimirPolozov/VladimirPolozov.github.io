@@ -5,7 +5,7 @@ key: C
 
 # За то, что рядом был
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** C
 
 

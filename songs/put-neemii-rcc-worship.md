@@ -5,7 +5,7 @@ key: C#m
 
 # Путь Неемии
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** C#m
 > **Темп:** 148
 

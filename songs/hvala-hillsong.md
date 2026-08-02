@@ -5,7 +5,7 @@ key: G
 
 # Хвала
 
-> **Исполнитель:** Hillsong
+> **Исполнитель:** [Hillsong](/artists/hillsong)
 > **Тональность:** G
 
 

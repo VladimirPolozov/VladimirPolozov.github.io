@@ -5,7 +5,7 @@ key: A
 
 # Превозносим
 
-> **Исполнитель:** Phil Driscoll
+> **Исполнитель:** [Phil Driscoll](/artists/phil-driscoll)
 > **Оригинальное название:** I exalt thee
 > **Тональность:** A
 

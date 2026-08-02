@@ -5,7 +5,7 @@ key: Hm
 
 # Освещаешь
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** Hm
 > **Темп:** 118
 

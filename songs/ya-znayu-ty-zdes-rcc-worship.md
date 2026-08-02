@@ -5,7 +5,7 @@ key: Em
 
 # Я знаю Ты здесь
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** Em
 
 

@@ -5,7 +5,7 @@ key: G
 
 # Прикосновение Небес
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Touch of Heaven
 > **Тональность:** G
 

@@ -5,7 +5,7 @@ key: Em
 
 # Я так хочу
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** Em
 > **Размер:** 6/8
 

@@ -5,7 +5,7 @@ key: A
 
 # Превознесу Тебя
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** I will Exalt You
 > **Тональность:** A
 > **Размер:** 6/8

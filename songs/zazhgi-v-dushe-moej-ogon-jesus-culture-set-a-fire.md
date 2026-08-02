@@ -5,7 +5,7 @@ key: G
 
 # Зажги в душе моей огонь
 
-> **Исполнитель:** Jesus Culture
+> **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
 > **Оригинальное название:** Set a fire
 > **Тональность:** G
 

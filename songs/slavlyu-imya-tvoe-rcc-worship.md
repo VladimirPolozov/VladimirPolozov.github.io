@@ -5,7 +5,7 @@ key: G
 
 # Славлю Имя Твоё
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** G
 
 

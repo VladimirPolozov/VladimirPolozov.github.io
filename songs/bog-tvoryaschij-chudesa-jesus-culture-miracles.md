@@ -5,7 +5,7 @@ key: Em
 
 # Бог творящий чудеса
 
-> **Исполнитель:** Jesus Culture
+> **Исполнитель:** [Jesus Culture](/artists/jesus-culture)
 > **Оригинальное название:** Miracles
 > **Тональность:** Em
 

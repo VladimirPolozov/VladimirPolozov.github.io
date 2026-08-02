@@ -5,7 +5,7 @@ key: E
 
 # Такой большой Бог
 
-> **Исполнитель:** Unknown artist
+> **Исполнитель:** [Unknown artist](/artists/unknown-artist)
 > **Тональность:** E
 
 

@@ -5,7 +5,7 @@ key: G
 
 # Каждую деталь
 
-> **Исполнитель:** Hillsong Y&F
+> **Исполнитель:** [Hillsong Y&F](/artists/hillsong-y-and-f)
 > **Оригинальное название:** Every Little Thing
 > **Тональность:** G
 

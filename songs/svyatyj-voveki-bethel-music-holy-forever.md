@@ -5,7 +5,7 @@ key: G
 
 # Святый Вовеки
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Holy Forever
 > **Тональность:** G
 

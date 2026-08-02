@@ -5,7 +5,7 @@ key: G
 
 # Я не буду рабом греха
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** No longer slaves
 > **Тональность:** G
 

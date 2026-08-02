@@ -5,7 +5,7 @@ key: E
 
 # Я буду петь: «Аллилуйя!»
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** E
 
 

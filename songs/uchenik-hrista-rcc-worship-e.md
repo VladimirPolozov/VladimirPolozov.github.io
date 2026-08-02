@@ -5,7 +5,7 @@ key: E
 
 # Ученик Христа
 
-> **Исполнитель:** RCC Worship
+> **Исполнитель:** [RCC Worship](/artists/rcc-worship)
 > **Тональность:** E
 
 

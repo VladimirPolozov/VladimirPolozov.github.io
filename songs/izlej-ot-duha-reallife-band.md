@@ -5,7 +5,7 @@ key: Em
 
 # Излей от Духа
 
-> **Исполнитель:** Reallife band
+> **Исполнитель:** [Reallife band](/artists/reallife-band)
 > **Тональность:** Em
 
 

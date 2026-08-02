@@ -5,7 +5,7 @@ key: E
 
 # Наш Бог Всемогущий
 
-> **Исполнитель:** Hillsong United
+> **Исполнитель:** [Hillsong United](/artists/hillsong-united)
 > **Оригинальное название:** Awesome God
 > **Тональность:** E
 

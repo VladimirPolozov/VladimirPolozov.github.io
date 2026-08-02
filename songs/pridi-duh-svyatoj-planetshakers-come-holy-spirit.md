@@ -5,7 +5,7 @@ key: G
 
 # Приди Дух Святой
 
-> **Исполнитель:** Planetshakers
+> **Исполнитель:** [Planetshakers](/artists/planetshakers)
 > **Оригинальное название:** Come Holy Spirit
 > **Тональность:** G
 

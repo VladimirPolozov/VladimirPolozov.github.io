@@ -5,7 +5,7 @@ key: Hb
 
 # Один путь - Иисус
 
-> **Исполнитель:** Hillsong United
+> **Исполнитель:** [Hillsong United](/artists/hillsong-united)
 > **Оригинальное название:** One way
 > **Тональность:** Hb
 

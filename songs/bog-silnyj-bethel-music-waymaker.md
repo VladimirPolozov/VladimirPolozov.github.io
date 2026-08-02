@@ -5,7 +5,7 @@ key: A
 
 # Бог сильный
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Waymaker
 > **Тональность:** A
 

@@ -5,7 +5,7 @@ key: Dm
 
 # Иисус - мой Друг
 
-> **Исполнитель:** Not an Idol
+> **Исполнитель:** [Not an Idol](/artists/not-an-idol)
 > **Оригинальное название:** Not an Idol
 > **Тональность:** Dm
 

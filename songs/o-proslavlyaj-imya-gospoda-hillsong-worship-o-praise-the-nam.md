@@ -5,7 +5,7 @@ key: A
 
 # О, прославляй имя Господа
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** O, praise the Name
 > **Тональность:** A
 

@@ -5,7 +5,7 @@ key: C
 
 # Ты сильнее
 
-> **Исполнитель:** Hillsong Worship
+> **Исполнитель:** [Hillsong Worship](/artists/hillsong-worship)
 > **Оригинальное название:** Stronger
 > **Тональность:** C
 

@@ -5,7 +5,7 @@ key: Dm
 
 # Всемогущий Бог
 
-> **Исполнитель:** Kirk Franklin
+> **Исполнитель:** [Kirk Franklin](/artists/kirk-franklin)
 > **Оригинальное название:** He reigns
 > **Тональность:** Dm
 

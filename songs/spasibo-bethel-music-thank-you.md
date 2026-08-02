@@ -5,7 +5,7 @@ key: Bb
 
 # Спасибо
 
-> **Исполнитель:** Bethel Music
+> **Исполнитель:** [Bethel Music](/artists/bethel-music)
 > **Оригинальное название:** Thank You
 > **Тональность:** Bb
 

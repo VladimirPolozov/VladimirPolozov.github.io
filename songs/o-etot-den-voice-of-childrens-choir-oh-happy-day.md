@@ -5,7 +5,7 @@ key: E
 
 # О, этот день
 
-> **Исполнитель:** Voice of Children’s Choir
+> **Исполнитель:** [Voice of Children’s Choir](/artists/voice-of-childrens-choir)
 > **Оригинальное название:** Oh, Happy Day
 > **Тональность:** E
 
