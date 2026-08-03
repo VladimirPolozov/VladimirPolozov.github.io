@@ -117,9 +117,20 @@
     document.body.appendChild(bar);
   }
 
+  function removeBar() {
+    var bar = document.getElementById('transpose-bar');
+    if (bar) bar.parentNode.removeChild(bar);
+  }
+
+  function isSongPage(vm) {
+    var path = vm && vm.route && vm.route.path;
+    if (!path) return false;
+    return /^\/songs\//.test(path);
+  }
+
   window.$docsify = window.$docsify || {};
   window.$docsify.plugins = window.$docsify.plugins || [];
-  window.$docsify.plugins.push(function (hook) {
+  window.$docsify.plugins.push(function (hook, vm) {
     // Читаем тональность из frontmatter и убираем его из отображаемого текста.
     // baseKey хранится между рендерами SPA.
     hook.beforeEach(function (content) {
@@ -128,6 +139,11 @@
       return fm.rest;
     });
     hook.doneEach(function () {
+      if (!isSongPage(vm)) {
+        removeBar();
+        reset();
+        return;
+      }
       injectStyle();
       buildBar();
       reset();
