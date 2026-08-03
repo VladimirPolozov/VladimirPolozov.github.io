@@ -22,7 +22,7 @@
 - [Ждём, Господь, Тебя](/songs/zhdem-gospod-tebya-martin-smith-waiting-here-for-you-a.md)
 - [Жизнь Твоя течёт через меня](/songs/zhizn-tvoya-techet-cherez-menya.md)
 - [Звёзд дивные алмазы](/songs/zvezd-divnye-almazy-dmitrij-pritula-cerkov-bozhya-v-caricyno.md)
-- [Иешуа](/songs/ieshua-olga-marina-kto-kak-ty.md)
+- [Иешуа](/songs/ieshua.md)
 - [Излей от Духа](/songs/izlej-ot-duha-reallife-band.md)
 - [Изливай](/songs/izlivaj-pour-it-out-hungrygen-worship.md)
 - [Иисус так нужен мне](/songs/iisus-tak-nuzhen-mne-rcc-worship.md)

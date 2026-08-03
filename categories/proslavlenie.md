@@ -43,7 +43,7 @@
 - [Мы славим Тебя](/songs/my-slavim-tebya-rcc-worship.md)
 - [На шаг ближе к Тебе](/songs/na-shag-blizhe-k-tebe-filipp-renner.md)
 - [Надежда в Тебе](/songs/nadezhda-v-tebe-third-day-my-hope-is-you.md)
-- [Напои меня](/songs/napoi-menya-vitalij-efremochkin.md)
+- [Напои меня](/songs/napoi-menya.md)
 - [НАРОДЫ](/songs/narody-rcc-worship.md)
 - [Не умру я, но буду](/songs/ne-umru-ya-no-budu.md)
 - [Ничего нет невозможного](/songs/nichego-net-nevozmozhnogo-nothing-is-impossible.md)

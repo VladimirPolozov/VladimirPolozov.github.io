@@ -377,11 +377,11 @@ SONG_META = {
         'artists': ['Селах'],
         'alt_titles': [],
     },
-    'ieshua-olga-marina-kto-kak-ty.md': {
+    'ieshua.md': {
         'title_ru': 'Иешуа',
         'title_en': '',
         'key': 'Am',
-        'artists': ['Ольга Марина'],
+        'artists': [],
         'alt_titles': ['Кто, как Ты'],
     },
     'iisus-moj-drug-not-an-idol.md': {
@@ -622,11 +622,11 @@ SONG_META = {
         'artists': ['Third Day'],
         'alt_titles': [],
     },
-    'napoi-menya-vitalij-efremochkin.md': {
+    'napoi-menya.md': {
         'title_ru': 'Напои меня',
         'title_en': '',
         'key': 'Hm',
-        'artists': ['Виталий Ефремочкин'],
+        'artists': [],
         'alt_titles': [],
     },
     'narody-rcc-worship.md': {

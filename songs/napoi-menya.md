@@ -5,7 +5,6 @@ key: Hm
 
 # Напои меня
 
-> **Исполнитель:** [Виталий Ефремочкин](/artists/vitalij-efremochkin)
 > **Категория:** [Прославление](/categories/proslavlenie)
 > **Тональность:** Hm
 
