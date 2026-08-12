@@ -9,7 +9,7 @@
       #app-footer {
         border-top: 1px solid rgba(0, 0, 0, 0.1);
         margin-top: 16px;
-        padding: 12px 16px 70px;
+        padding: 12px 16px 16px;
         background: #fff;
         text-align: center;
         font-size: 12px;
@@ -17,7 +17,12 @@
         line-height: 1.4;
       }
       .markdown-section {
+        min-height: 100vh;
         padding-bottom: 8px;
+      }
+      .markdown-section a {
+        overflow-wrap: anywhere;
+        word-break: break-word;
       }
       @media (max-width: 600px) {
         #app-footer {
@@ -71,6 +76,16 @@
         }
       ]
     };
+  </script>
+  <script>
+    // Автозакрытие сайдбара при выборе песни/ссылки (особенно на мобильном).
+    document.addEventListener('click', function (e) {
+      var a = e.target && e.target.closest && e.target.closest('.sidebar-nav a, aside.sidebar a');
+      if (a) {
+        var sb = document.querySelector('.sidebar');
+        if (sb) sb.classList.add('close');
+      }
+    });
   </script>
   <script src="tools/transpose-core.js"></script>
   <script src="tools/transpose.js"></script>
