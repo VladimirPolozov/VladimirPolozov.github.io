@@ -54,9 +54,3 @@ Dmaj9 | A | Hm7 | Dmaj9 |
 **Мост**
 Верю я, верю я!
 Верю я, верю я в Тебя!
-
-## Слушать
-
-- https://youtu.be/5E46Y3zBOlE
-
-- https://m.youtube.com/watch?v=0orppjETQ-0

@@ -58,17 +58,3 @@ D E | A |
 И солнца свет прогонит ночь
 Воскресну со святыми я
 Прикован взгляд к лицу Христа
-
-## Слушать
-
-- https://youtu.be/XazFNEfQ3ro
-
-- https://youtu.be/nRKOhgJb1mw
-
-- https://youtu.be/9PPg_emti7M
-
-- https://youtu.be/yjfq36aVbhU
-
-- https://youtu.be/OB-QWp62otE
-
-- https://m.youtube.com/watch?v=LqBpifDpNKc

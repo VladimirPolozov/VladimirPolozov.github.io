@@ -39,7 +39,3 @@ C D | G Em | C Am | D |
 **Припев**
 | G D/F# | Em D | C G/H | Am D | 
 | G D/F# | Em D | C D | G |
-
-## Слушать
-
-- https://youtu.be/yx8hBj9UXhk

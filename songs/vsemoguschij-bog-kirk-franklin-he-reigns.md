@@ -53,11 +53,3 @@ Bb | A7 | Dm | Cm F/A |
 Наш Бог – всемогущий Бог
 
 Воскрес!
-
-## Слушать
-
-- https://youtu.be/MSSD0WBxUX0
-
-- https://youtu.be/Z8xIXKQJVC0
-
-- https://m.youtube.com/watch?v=EzrdPwijinE

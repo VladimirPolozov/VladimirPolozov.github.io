@@ -56,13 +56,3 @@ F G | C |
 Аллилуйя, правит Бог х3
 Навеки, во все дни
 Аллилуйя!
-
-## Слушать
-
-- https://www.youtube.com/watch?v=nkCM9sruQKw
-
-- https://www.youtube.com/watch?v=je4PH1FVhNs
-
-- https://www.youtube.com/watch?v=VyvZnH7MOyA
-
-- https://m.youtube.com/watch?v=Wfhpv39c-pM

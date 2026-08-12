@@ -33,9 +33,3 @@ H | C#m | H A | A |
 Он воскрес! Он воскрес! 
 Приди и празднуй (что?!) 
 Воскресение Христа!
-
-## Слушать
-
-- https://youtu.be/CAhe3ajb2-Q
-
-- https://www.youtube.com/watch?v=LQobUwL1aJ0

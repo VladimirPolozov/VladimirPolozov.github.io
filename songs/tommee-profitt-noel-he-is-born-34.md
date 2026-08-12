@@ -60,7 +60,3 @@ key: A
 | D•• F#m | E |
 | F#m | D•• E |
 | D | E/D | F#m/D | A/D |
-
-## Слушать
-
-- https://www.worshiptogether.com/songs/noel-he-is-born-tommee-profitt/

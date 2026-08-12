@@ -52,9 +52,3 @@ E A | H E | E H | E |
 Господь один для всех!
 В Его имени для нас спасенье.
 Иисус - Господь для всех!
-
-## Слушать
-
-- https://m.youtube.com/watch?v=6zrQk-JrJ0g&list=PLCKCvg9tTeD1Et6rllAogq4Jrn6K5Z3_S&index=5
-
-- https://m.youtube.com/watch?v=cZ2nHx9bzxQ&list=PLCKCvg9tTeD1Et6rllAogq4Jrn6K5Z3_S&index=6

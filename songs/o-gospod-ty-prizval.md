@@ -61,7 +61,3 @@ C | G/H Em | Am C/D | G G7 |
    **Бридж**
 C D/C | G/H Em | Am D | G G7
 C D/C | G/H Em | F | Dsus4 D G/H |
-
-## Слушать
-
-- https://youtu.be/i-gbLLQ6IAw

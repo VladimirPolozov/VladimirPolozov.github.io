@@ -76,9 +76,3 @@ H |
 Можешь только Ты
 спасти весь мир
 Жизнь моя!
-
-## Слушать
-
-- https://youtu.be/HstIHbcGWyY
-
-- https://m.youtube.com/watch?v=pjt0t3MJ230

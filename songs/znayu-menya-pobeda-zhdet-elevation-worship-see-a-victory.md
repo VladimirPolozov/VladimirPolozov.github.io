@@ -65,7 +65,3 @@ C | D G/H• | C Em | D |
 Наш враг на нас, 
 Ты обращаешь в добро
 Обращаешь в добро!
-
-## Слушать
-
-- https://m.youtube.com/watch?v=YNd-PbVhnvA

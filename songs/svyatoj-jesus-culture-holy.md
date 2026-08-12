@@ -31,7 +31,3 @@ Em | Am | G | Hm7 |
 **Мост**
 Нет подобного, 
 Ведь Ты Святой, Святой!
-
-## Слушать
-
-- https://m.youtube.com/watch?v=Xh7kWHwDZ-I

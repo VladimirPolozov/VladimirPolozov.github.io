@@ -33,7 +33,3 @@ A | D | A | D |
   **Мост**
 D | E | F#m | E |
 D | E | F#m | E |
-
-## Слушать
-
-- https://holychords.pro/407

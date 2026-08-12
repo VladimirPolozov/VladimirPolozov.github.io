@@ -32,7 +32,3 @@ G A | Hm |
   **Припев 2** (после моста)
 G | D A | x3
 G Hm | A |
-
-## Слушать
-
-- https://m.youtube.com/watch?v=SzZZb6RbLJs

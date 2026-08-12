@@ -81,15 +81,3 @@ key: D
 Ему покорится всё!
 В Твоём Имени сила, Бог!
 Иисус – Господь мой!
-
-## Слушать
-
-- https://youtu.be/Lmw3_g40aSg
-
-- https://youtu.be/nkeFua-Pub0
-
-- https://youtu.be/pMoo5WP-a5Q
-
-- https://youtu.be/sCb7cINRvjo
-
-- https://youtu.be/DqEZyHlc7wc

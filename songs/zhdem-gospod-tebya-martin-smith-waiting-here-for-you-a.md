@@ -29,7 +29,3 @@ A | Hm | F#m E | F#m E |
 
   **Бридж/Проигрыш** (Аллилуйя)
 D | F#m E |
-
-## Слушать
-
-- https://youtu.be/o8Djszk4hG4?si=gN1FdKXjB__pFLHm

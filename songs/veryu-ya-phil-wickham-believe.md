@@ -75,7 +75,3 @@ key: A
 
   **Проигрыш** x2
 | A | D | F#m | E |
-
-## Слушать
-
-- https://youtu.be/6rf4Nfeftz0?si=Pq5MBxqMJAw8uKW8

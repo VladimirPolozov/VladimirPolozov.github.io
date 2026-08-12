@@ -98,13 +98,3 @@ Am | Cmaj7 | D | F |
 Тебе подобных нет!
 Бог, Тебе подобных нет!
 Бог, Тебе подобных нет!
-
-## Слушать
-
-- https://youtu.be/u0IXMYSiEMw?si=vxLzE9gJhfTnLeuq
-
-- https://youtu.be/WmrhV4M1uKc?si=E-lNuPrs9LygflmG
-
-- https://youtu.be/HsJrgvwyAJ0?si=m8zJaqUZMYCUsSU1
-
-- https://youtu.be/NlGrNNyj_NE?si=kTYGzfgbvzcdxC-M
