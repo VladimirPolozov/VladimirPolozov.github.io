@@ -84,6 +84,13 @@
       plugins: [
         function (hook, vm) {
           hook.doneEach(function () {
+            window.scrollTo(0, 0);
+            var content = document.querySelector('.content');
+            if (content) content.scrollTop = 0;
+          });
+        },
+        function (hook, vm) {
+          hook.doneEach(function () {
             var section = document.querySelector('.markdown-section') || document.querySelector('.content');
             if (!section || section.querySelector('#app-footer')) return;
             var f = document.createElement('div');
