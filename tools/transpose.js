@@ -83,7 +83,7 @@
     var st = document.createElement('style');
     st.id = 'transpose-style';
     st.textContent =
-      '#transpose-bar{position:fixed;top:12px;right:12px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;background:rgba(35,39,48,.94);box-shadow:0 2px 12px rgba(0,0,0,.35);font-family:inherit;user-select:none}' +
+      '#transpose-bar{position:fixed;right:16px;bottom:16px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;background:rgba(35,39,48,.94);box-shadow:0 2px 12px rgba(0,0,0,.35);font-family:inherit;user-select:none}' +
       '#transpose-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;font-weight:600;line-height:1;color:#fff;background:rgba(255,255,255,.14);transition:background .15s}' +
       '#transpose-bar button:hover{background:rgba(255,255,255,.3)}' +
       '#transpose-bar button:active{background:rgba(255,255,255,.45)}' +
