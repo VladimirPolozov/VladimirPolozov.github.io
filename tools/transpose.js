@@ -83,12 +83,12 @@
     var st = document.createElement('style');
     st.id = 'transpose-style';
     st.textContent =
-      '#transpose-bar{position:fixed;right:16px;bottom:16px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;background:rgba(35,39,48,.94);box-shadow:0 2px 12px rgba(0,0,0,.35);font-family:inherit;user-select:none}' +
-      '#transpose-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;font-weight:600;line-height:1;color:#fff;background:rgba(255,255,255,.14);transition:background .15s}' +
-      '#transpose-bar button:hover{background:rgba(255,255,255,.3)}' +
-      '#transpose-bar button:active{background:rgba(255,255,255,.45)}' +
+      '#transpose-bar{position:fixed;right:16px;bottom:16px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;background:#eef1f7;box-shadow:5px 5px 10px rgba(174,184,204,.6),-5px -5px 10px #fff;font-family:inherit;user-select:none}' +
+      '#transpose-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;font-weight:600;line-height:1;color:#3E45C7;background:#eef1f7;box-shadow:3px 3px 6px rgba(174,184,204,.55),-3px -3px 6px #fff;transition:box-shadow .15s}' +
+      '#transpose-bar button:hover{box-shadow:4px 4px 8px rgba(174,184,204,.7),-4px -4px 8px #fff}' +
+      '#transpose-bar button:active{box-shadow:inset 2px 2px 4px rgba(174,184,204,.6),inset -2px -2px 4px #fff}' +
       '#transpose-bar button[data-d="level"]{font-size:15px;min-width:56px;border-radius:19px}' +
-      '#transpose-key{color:#cfd8dc;font-size:13px;margin:0 6px;white-space:nowrap}';
+      '#transpose-key{color:#E48F3F;font-size:13px;margin:0 6px;white-space:nowrap}';
     document.head.appendChild(st);
   }
 
