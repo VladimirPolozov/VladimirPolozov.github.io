@@ -51,8 +51,8 @@ key: A
 
 - `tools/build_categories.py` — **актуальный**. Читает поле `**Категория:**` из песен, пересобирает `categories/*.md` и `categories/index.md`. Запуск: `python tools/build_categories.py`.
 - `tools/transpose-core.js` — ядро транспонирования (аккорды, тональности, DOM). `transposeKeyTextNodes` — транспонирует только узлы от «Тональность»/«Key:», чтобы не задеть «Исполнитель:».
-- `tools/transpose.js` — плагин docsify: кнопки −/0/+, индикатор «Тон: X»; без localStorage, `reset()` при каждом `hook.doneEach` (переход на другую песню сбрасывает транспонирование).
-- `tools/test_transpose.js` — тесты корпуса: прогонять **перед каждым пушем** (`node tools/test_transpose.js`). Проверяет, что не-аккордовые строки не меняются.
+- `tools/transpose.js` — плагин docsify: кнопки −/0/+, средняя показывает текущую тональность буквой (`G#`, `A`, `Bbm`…) и сбрасывает при клике; без localStorage, `reset()` при каждом `hook.doneEach` (переход на другую песню сбрасывает транспонирование).
+- `tools/test_transpose.js` — тесты корпуса (`node tools/test_transpose.js`): прогонять перед пушем, если менялся `transpose-core.js` или логика определения/сдвига аккордов. Для чисто визуальных/CSS-правок в `transpose.js` (без изменения разбора аккордов) тест можно пропустить — он проверяет, что не-аккордовые строки не меняются.
 - `tools/song_meta.py`, `tools/build.py`, `tools/extract_meta.py`, `tools/migrate.py`, `tools/export_to_md.py`, `tools/gen_sidebar.py` — **устаревший Python-конвейер** (README о нём устарел). Песни правятся вручную/разовыми скриптами; `build.py` перезапишет блоки сведений (уберёт ссылки на исполнителей, «Оригинальное название», «Размер», «Темп», «Категория») — не запускать.
 
 ## Конвенции и история решений
@@ -70,4 +70,4 @@ key: A
 ## Типичные задачи
 
 - **Добавить категорию песне**: вставить/поправить строку `> **Категория:** […](/categories/…)`, затем `python tools/build_categories.py`.
-- **Проверить перед пушем**: `node tools/test_transpose.js`.
+- **Проверить перед пушем** (если трогали логику аккордов): `node tools/test_transpose.js`.
