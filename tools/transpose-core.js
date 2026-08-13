@@ -297,6 +297,7 @@
     transposeChordTokens: transposeChordTokens,
     matchKey: matchKey,
     keyAfter: keyAfter,
+    pitchOf: rootPitch,
     classifyToken: classifyToken,
     classifyTokenCtx: classifyTokenCtx,
     isChordLine: isChordLine,

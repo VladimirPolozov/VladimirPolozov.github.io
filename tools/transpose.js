@@ -21,6 +21,47 @@
     offset = 0;
   }
 
+  // Возвращает тональность из параметра ?key= в URL (или null).
+  function readTargetKey() {
+    var hash = window.location.hash || '';
+    var qi = hash.indexOf('?');
+    if (qi < 0) return null;
+    var qs = hash.slice(qi + 1);
+    var pairs = qs.split('&');
+    for (var i = 0; i < pairs.length; i++) {
+      var kv = pairs[i].split('=');
+      if (kv[0] === 'key' && kv[1]) {
+        try {
+          return decodeURIComponent(kv[1]);
+        } catch (e) {
+          return kv[1];
+        }
+      }
+    }
+    return null;
+  }
+
+  function rootOf(key) {
+    var m = String(key || '').match(/^([A-Ha-h\u0410\u0412\u0421\u0415\u041D])([#b]?)/);
+    if (!m) return null;
+    return m[1].toUpperCase() + (m[2] || '');
+  }
+
+  // Сдвиг, при котором baseKey песни становится тональностью из ?key= (0 если нет).
+  function offsetFromTarget() {
+    var target = readTargetKey();
+    if (!target || !baseKey) return 0;
+    var b = rootOf(baseKey);
+    var t = rootOf(target);
+    if (!b || !t) return 0;
+    var pb = window.TransposeCore.pitchOf(b);
+    var pt = window.TransposeCore.pitchOf(t);
+    if (pb === null || pt === null) return 0;
+    var o = ((pt - pb) % 12 + 12) % 12;
+    if (o > 6) o -= 12;
+    return o;
+  }
+
   function captureBaseKey() {
     var container = getContainer();
     if (!container) return null;
@@ -72,6 +113,19 @@
     renderLevel();
   }
 
+  // Обновляет ?key= в адресе (без перезагрузки): ссылку можно скинуть —
+  // получатель откроет песню сразу в этой тональности.
+  function syncUrl() {
+    if (!baseKey) return;
+    var hash = window.location.hash || '';
+    var route = hash.replace(/^#/, '');
+    var qi = route.indexOf('?');
+    var path = qi >= 0 ? route.slice(0, qi) : route;
+    var key = offset === 0 ? '' : window.TransposeCore.keyAfter(baseKey, offset);
+    var next = '#' + path + (key ? '?key=' + encodeURIComponent(key) : '');
+    if (next !== hash) window.history.replaceState(null, '', next);
+  }
+
   function injectStyle() {
     if (document.getElementById('transpose-style')) return;
     var st = document.createElement('style');
@@ -105,6 +159,7 @@
       else if (d === 'down') offset = clamp(offset - 1);
       else offset = 0;
       applyTranspose();
+      syncUrl();
     });
     document.body.appendChild(bar);
   }
@@ -138,8 +193,8 @@
       }
       injectStyle();
       buildBar();
-      reset();
       if (!baseKey) baseKey = captureBaseKey();
+      offset = offsetFromTarget();
       applyTranspose();
     });
   });
