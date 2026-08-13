@@ -58,15 +58,9 @@
   function renderLevel() {
     var btn = document.querySelector('#transpose-bar button[data-d="level"]');
     if (btn) {
-      btn.textContent =
-        offset === 0 ? '0' : offset > 0 ? '+' + offset : String(offset);
-    }
-    var keyEl = document.getElementById('transpose-key');
-    if (keyEl) {
-      keyEl.textContent = baseKey
-        ? 'Тон: ' + window.TransposeCore.keyAfter(baseKey, offset)
-        : '';
-      keyEl.title = 'Текущая тональность после транспонирования';
+      btn.textContent = baseKey
+        ? window.TransposeCore.keyAfter(baseKey, offset)
+        : '—';
     }
   }
 
@@ -87,8 +81,7 @@
       '#transpose-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;font-weight:600;line-height:1;color:#3E45C7;background:#eef1f7;box-shadow:3px 3px 6px rgba(174,184,204,.55),-3px -3px 6px #fff;transition:box-shadow .15s}' +
       '#transpose-bar button:hover{box-shadow:4px 4px 8px rgba(174,184,204,.7),-4px -4px 8px #fff}' +
       '#transpose-bar button:active{box-shadow:inset 2px 2px 4px rgba(174,184,204,.6),inset -2px -2px 4px #fff}' +
-      '#transpose-bar button[data-d="level"]{font-size:15px;min-width:56px;border-radius:19px}' +
-      '#transpose-key{color:#E48F3F;font-size:13px;margin:0 6px;white-space:nowrap}';
+      '#transpose-bar button[data-d="level"]{font-size:15px;width:58px;border-radius:19px;text-align:center;color:#E48F3F}';
     document.head.appendChild(st);
   }
 
@@ -99,9 +92,8 @@
     bar.id = 'transpose-bar';
     bar.innerHTML =
       '<button type="button" data-d="down" title="Транспонировать вниз (на полтона)">&#8722;</button>' +
-      '<button type="button" data-d="level" title="Сброс транспонирования">0</button>' +
-      '<button type="button" data-d="up" title="Транспонировать вверх (на полтона)">+</button>' +
-      '<span id="transpose-key"></span>';
+      '<button type="button" data-d="level" title="Сброс транспонирования (текущая тональность)">—</button>' +
+      '<button type="button" data-d="up" title="Транспонировать вверх (на полтона)">+</button>';
     bar.addEventListener('click', function (e) {
       var btn =
         e.target && e.target.closest
