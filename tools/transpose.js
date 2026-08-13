@@ -77,10 +77,10 @@
     var st = document.createElement('style');
     st.id = 'transpose-style';
     st.textContent =
-      '#transpose-bar{position:fixed;right:16px;bottom:16px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;background:#F7F9FA;box-shadow:6px 6px 12px rgba(30,45,55,.08),-6px -6px 12px rgba(255,255,255,.90);font-family:inherit;user-select:none}' +
-      '#transpose-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;font-weight:600;line-height:1;color:#159FE8;background:#F7F9FA;box-shadow:4px 4px 8px rgba(30,45,55,.08),-4px -4px 8px rgba(255,255,255,.90);transition:box-shadow .15s,color .15s}' +
-      '#transpose-bar button:hover{box-shadow:5px 5px 10px rgba(30,45,55,.08),-5px -5px 10px rgba(255,255,255,.90);color:#0B8DCE}' +
-      '#transpose-bar button:active{box-shadow:inset 3px 3px 6px rgba(30,45,55,.08),inset -3px -3px 6px rgba(255,255,255,.90);color:#0B8DCE}' +
+      '#transpose-bar{position:fixed;right:16px;bottom:16px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;background:#F7F9FA;box-shadow:8px 8px 16px rgba(30,45,55,.20),-8px -8px 16px rgba(255,255,255,.95);font-family:inherit;user-select:none}' +
+      '#transpose-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;font-weight:600;line-height:1;color:#159FE8;background:#F7F9FA;box-shadow:5px 5px 10px rgba(30,45,55,.18),-5px -5px 10px rgba(255,255,255,.95);transition:box-shadow .15s,color .15s}' +
+      '#transpose-bar button:hover{box-shadow:6px 6px 12px rgba(30,45,55,.22),-6px -6px 12px rgba(255,255,255,.95);color:#0B8DCE}' +
+      '#transpose-bar button:active{box-shadow:inset 3px 3px 6px rgba(30,45,55,.22),inset -3px -3px 6px rgba(255,255,255,.95);color:#0B8DCE}' +
       '#transpose-bar button[data-d="level"]{font-size:15px;width:58px;border-radius:19px;text-align:center;color:#0B8DCE}';
     document.head.appendChild(st);
   }
