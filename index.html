@@ -34,6 +34,8 @@
       .sidebar {
         background: var(--surface);
         border-right: 1px solid var(--border);
+        /* Поиск живёт над карточкой, а не в сайдбаре — сверху меньше отступа */
+        padding-top: 16px;
       }
 
       /* Штатную кнопку docsify скрываем: она лежит внутри .sidebar, а у
@@ -115,16 +117,6 @@
         word-break: break-word;
       }
 
-      .search input {
-        background: var(--surface);
-        border: 1px solid var(--border);
-        color: var(--text);
-      }
-      .search input:focus {
-        border-color: var(--accent);
-        box-shadow: 0 0 0 3px rgba(86, 196, 253, 0.25);
-      }
-
       @media (max-width: 768px) {
         .content {
           transform: none !important;
@@ -169,12 +161,6 @@
         breaks: true
       },
       alias: { '/.*/_sidebar.md': '/_sidebar.md' },
-      search: {
-        placeholder: 'Поиск: название или строка из песни',
-        noData: 'Ничего не найдено',
-        depth: 1,
-        namespace: 'rcc1'
-      },
       plugins: [
         function (hook, vm) {
           hook.doneEach(function () {
@@ -210,7 +196,7 @@
   <script src="tools/transpose.js?v=4"></script>
   <script src="tools/share.js?v=1"></script>
   <script src="tools/menu.js?v=1"></script>
+  <script src="tools/search.js?v=1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 </body>
 </html>
