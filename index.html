@@ -34,12 +34,12 @@
       .sidebar {
         background: var(--surface);
         border-right: 1px solid var(--border);
-        padding-top: 64px;
       }
 
       /* Штатную кнопку docsify скрываем: она лежит внутри .sidebar, а у
          .sidebar в закрытом состоянии есть transform — он становится
          containing block для position:fixed и утащил бы кнопку за экран.
+         Плюс в теме vue она сама стоит внизу слева — там же наша кнопка.
          Свою кнопку рисует tools/menu.js (вне сайдбара). */
       button.sidebar-toggle {
         display: none !important;
@@ -141,8 +141,7 @@
           border: none;
           border-radius: 0;
           box-shadow: none;
-          /* верхняя полоса под фиксированный гамбургер и кнопку «поделиться» */
-          padding: 64px 20px 20px;
+          padding: 20px;
         }
         #app-footer {
           padding: 16px 16px 70px;
