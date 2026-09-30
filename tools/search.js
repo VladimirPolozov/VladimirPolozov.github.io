@@ -81,7 +81,7 @@
     var st = document.createElement('style');
     st.id = 'ss-style';
     st.textContent = [
-      '.site-search{position:relative;width:100%;max-width:80%;margin:0 auto 16px}',
+      '.site-search{position:relative;width:100%;max-width:var(--col,960px);margin:0 0 16px}',
       '.ss-field{display:flex;align-items:center;gap:8px;height:42px;padding:0 10px 0 14px;border-radius:21px;background:var(--bg,#F7F9FA);box-shadow:5px 5px 10px rgba(30,45,55,.18),-5px -5px 10px rgba(255,255,255,.95);transition:box-shadow .15s ease}',
       '.ss-field:focus-within{box-shadow:6px 6px 12px rgba(30,45,55,.20),-6px -6px 12px rgba(255,255,255,.95),0 0 0 3px rgba(86,196,253,.25)}',
       '.ss-ico{flex:0 0 auto;display:flex;color:var(--accent-active,#159FE8)}',

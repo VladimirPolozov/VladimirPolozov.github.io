@@ -24,6 +24,9 @@
         --shadow: rgba(30, 45, 55, 0.08);
         --shadow-light: rgba(255, 255, 255, 0.90);
         --theme-color: #159FE8;
+        /* Ширина колонки контента на ПК: карточка, поисковая строка и футер.
+           Меняется в одном месте — здесь. */
+        --col: 960px;
       }
 
       body, .app, .content {
@@ -67,6 +70,16 @@
         color: var(--text);
       }
 
+      /* Колонка контента на ПК: фиксированная ширина --col, прижата влево.
+         Тема docsify даёт .markdown-section{max-width:80%;margin:0 auto} —
+         перебиваем селектором большей конкретности (.content > …), поэтому
+         !important не нужен, но в мобильном блоке он оставлен. */
+      .content > .markdown-section {
+        width: 100%;
+        max-width: var(--col);
+        margin: 0 0 16px;
+      }
+
       .markdown-section h1,
       .markdown-section h2,
       .markdown-section h3,
@@ -103,6 +116,8 @@
 
       #app-footer {
         border-top: 1px solid var(--border-thin);
+        width: 100%;
+        max-width: var(--col);
         margin: auto 0 0;
         padding: 16px;
         background: transparent;
@@ -127,7 +142,7 @@
           position: static;
           padding: 0;
         }
-        .markdown-section {
+        .content > .markdown-section {
           max-width: 100% !important;
           margin: 0;
           border: none;
@@ -196,7 +211,7 @@
   <script src="tools/transpose.js?v=4"></script>
   <script src="tools/share.js?v=1"></script>
   <script src="tools/menu.js?v=1"></script>
-  <script src="tools/search.js?v=1"></script>
+  <script src="tools/search.js?v=2"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 </body>
 </html>
