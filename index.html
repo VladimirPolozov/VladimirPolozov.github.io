@@ -34,6 +34,15 @@
       .sidebar {
         background: var(--surface);
         border-right: 1px solid var(--border);
+        padding-top: 64px;
+      }
+
+      /* Штатную кнопку docsify скрываем: она лежит внутри .sidebar, а у
+         .sidebar в закрытом состоянии есть transform — он становится
+         containing block для position:fixed и утащил бы кнопку за экран.
+         Свою кнопку рисует tools/menu.js (вне сайдбара). */
+      button.sidebar-toggle {
+        display: none !important;
       }
 
       .content {
@@ -132,7 +141,8 @@
           border: none;
           border-radius: 0;
           box-shadow: none;
-          padding: 20px;
+          /* верхняя полоса под фиксированный гамбургер и кнопку «поделиться» */
+          padding: 64px 20px 20px;
         }
         #app-footer {
           padding: 16px 16px 70px;
@@ -200,6 +210,7 @@
   <script src="tools/transpose-core.js?v=4"></script>
   <script src="tools/transpose.js?v=4"></script>
   <script src="tools/share.js?v=1"></script>
+  <script src="tools/menu.js?v=1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 </body>
