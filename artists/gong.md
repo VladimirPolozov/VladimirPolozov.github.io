@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [За каждый день](/songs/za-kazhdyj-den-gong-spasibo.md)
+- [За каждый день](/songs/226.md)

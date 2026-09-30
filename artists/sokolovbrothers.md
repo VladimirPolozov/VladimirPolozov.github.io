@@ -2,5 +2,5 @@
 
 В архиве 2 песня(ен).
 
-- [Буду погружаться](/songs/budu-pogruzhatsya-sokolovbrothers.md)
-- [Поклонюсь Тебе](/songs/poklonyus-tebe-sokolovbrothers.md)
+- [Буду погружаться](/songs/19.md)
+- [Поклонюсь Тебе](/songs/119.md)

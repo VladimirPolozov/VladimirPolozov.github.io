@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Когда стихнет всё](/songs/kogda-stihnet-vse-michael-w-smith-heart-of-worship.md)
+- [Когда стихнет всё](/songs/69.md)

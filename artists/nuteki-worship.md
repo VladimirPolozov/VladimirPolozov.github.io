@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Аллилуйя](/songs/allilujya-nuteki-worship.md)
+- [Аллилуйя](/songs/2.md)

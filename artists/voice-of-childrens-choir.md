@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [О, этот день](/songs/o-etot-den-voice-of-childrens-choir-oh-happy-day.md)
+- [О, этот день](/songs/100.md)

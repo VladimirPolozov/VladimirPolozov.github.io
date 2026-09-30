@@ -2,5 +2,5 @@
 
 В архиве 2 песня(ен).
 
-- [Иисус, превозносим, Твоё имя, Ты царь](/songs/iisus-prevoznosim-tvoe-imya-ty-car-don-moen-jesus-we-enthron.md)
-- [Прославляй Иисуса, прославляй](/songs/proslavlyaj-iisusa-proslavlyaj-don-moen-celebrate-jesus-cele.md)
+- [Иисус, превозносим, Твоё имя, Ты царь](/songs/59.md)
+- [Прославляй Иисуса, прославляй](/songs/134.md)

@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Всемогущий Бог](/songs/vsemoguschij-bog-kirk-franklin-he-reigns.md)
+- [Всемогущий Бог](/songs/209.md)

@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Мы ждём Тебя](/songs/my-zhdem-tebya-shekinah-glory.md)
+- [Мы ждём Тебя](/songs/86.md)

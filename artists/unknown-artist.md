@@ -2,6 +2,6 @@
 
 В архиве 3 песня(ен).
 
-- [Дип-дип](/songs/dip-dip-unknown-artist-g.md)
-- [Люблю бананы](/songs/lyublyu-banany-unknown-artist-i-like-bananas-g.md)
-- [Такой большой Бог](/songs/takoj-bolshoj-bog-unknown-artist-e.md)
+- [Дип-дип](/songs/30.md)
+- [Люблю бананы](/songs/74.md)
+- [Такой большой Бог](/songs/173.md)

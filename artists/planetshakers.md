@@ -2,5 +2,5 @@
 
 В архиве 2 песня(ен).
 
-- [Приди Дух Святой](/songs/pridi-duh-svyatoj-planetshakers-come-holy-spirit.md)
-- [Свободны мы](/songs/svobodny-my-planetshakers-we-are-free.md)
+- [Приди Дух Святой](/songs/127.md)
+- [Свободны мы](/songs/164.md)

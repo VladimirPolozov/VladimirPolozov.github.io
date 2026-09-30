@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Пой, пой душа](/songs/poj-poj-dusha-argam-hachatryan.md)
+- [Пой, пой душа](/songs/118.md)

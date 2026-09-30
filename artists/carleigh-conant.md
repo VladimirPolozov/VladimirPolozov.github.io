@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Иисус, прекрасен Ты](/songs/iisus-prekrasen-ty-carleigh-conant-beautiful-and-glorious.md)
+- [Иисус, прекрасен Ты](/songs/58.md)

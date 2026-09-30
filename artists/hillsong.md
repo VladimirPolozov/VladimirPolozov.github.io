@@ -2,10 +2,10 @@
 
 В архиве 7 песня(ен).
 
-- [В Тебе вся жизнь моя](/songs/hillsong-v-tebe-vsya-zhizn-moya-tebya-ne-perestanu-slavit.md)
-- [Влюбляюсь в Тебя, Иисус](/songs/vlyublyayus-v-tebya-iisus-hillsong.md)
-- [Для Тебя](/songs/dlya-tebya-hillsong.md)
-- [Мы восклицаем](/songs/my-vosklicaem-hillsong-shout-unto-god.md)
-- [Снова на коленях](/songs/snova-na-kolenyah-hillsong-came-to-my-rescue.md)
-- [Хвала](/songs/hvala-hillsong.md)
-- [Целитель](/songs/celitel-hillsong-healer.md)
+- [В Тебе вся жизнь моя](/songs/48.md)
+- [Влюбляюсь в Тебя, Иисус](/songs/202.md)
+- [Для Тебя](/songs/32.md)
+- [Мы восклицаем](/songs/85.md)
+- [Снова на коленях](/songs/159.md)
+- [Хвала](/songs/51.md)
+- [Целитель](/songs/23.md)

@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Превозносим](/songs/prevoznosim-phil-driscoll-i-exalt-thee.md)
+- [Превозносим](/songs/125.md)

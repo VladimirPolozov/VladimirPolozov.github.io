@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Ты омой меня](/songs/ty-omoj-menya-carpen-diaz.md)
+- [Ты омой меня](/songs/188.md)

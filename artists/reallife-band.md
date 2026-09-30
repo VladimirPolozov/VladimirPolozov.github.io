@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [Излей от Духа](/songs/izlej-ot-duha-reallife-band.md)
+- [Излей от Духа](/songs/63.md)

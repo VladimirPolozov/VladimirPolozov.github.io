@@ -2,6 +2,6 @@
 
 В категории 3 песня(ен).
 
-- [Кадош](/songs/kadosh.md)
-- [Ты ликуй, дочь Сиона](/songs/ty-likuj-doch-siona-paul-wilbur-roni-roni-bat-zion.md)
-- [Хава Нагила](/songs/hava-nagila.md)
+- [Кадош](/songs/65.md)
+- [Ты ликуй, дочь Сиона](/songs/184.md)
+- [Хава Нагила](/songs/47.md)

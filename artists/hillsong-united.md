@@ -2,10 +2,10 @@
 
 В архиве 7 песня(ен).
 
-- [Всё возьми](/songs/vse-vozmi-hillsong-united-take-it-all.md)
-- [Голгофа](/songs/golgofa-hillsong-united-calvary.md)
-- [Любовь - война](/songs/lyubov-vojna-hillsong-united-love-is-war.md)
-- [Любовь бесконечна](/songs/lyubov-beskonechna-hillsong-united-relentless-n.md)
-- [Наш Бог Всемогущий](/songs/nash-bog-vsemoguschij-hillsong-united-awesome-god.md)
-- [Один путь - Иисус](/songs/odin-put-iisus-hillsong-united-one-way.md)
-- [Силен спасти](/songs/silen-spasti-hillsong-united-mighty-to-save.md)
+- [Всё возьми](/songs/208.md)
+- [Голгофа](/songs/45.md)
+- [Любовь - война](/songs/79.md)
+- [Любовь бесконечна](/songs/75.md)
+- [Наш Бог Всемогущий](/songs/92.md)
+- [Один путь - Иисус](/songs/108.md)
+- [Силен спасти](/songs/151.md)
