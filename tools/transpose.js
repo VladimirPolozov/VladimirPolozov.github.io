@@ -22,12 +22,13 @@
   }
 
   // Возвращает тональность из параметра ?key= в URL (или null).
+  // Роутер docsify переведён в routerMode:'history', поэтому параметр живёт
+  // в location.search, а не в решётке.
   function readTargetKey() {
-    var hash = window.location.hash || '';
-    var qi = hash.indexOf('?');
-    if (qi < 0) return null;
-    var qs = hash.slice(qi + 1);
-    var pairs = qs.split('&');
+    var search = window.location.search || '';
+    if (search.charAt(0) === '?') search = search.slice(1);
+    if (!search) return null;
+    var pairs = search.split('&');
     for (var i = 0; i < pairs.length; i++) {
       var kv = pairs[i].split('=');
       if (kv[0] === 'key' && kv[1]) {
@@ -114,16 +115,21 @@
   }
 
   // Обновляет ?key= в адресе (без перезагрузки): ссылку можно скинуть —
-  // получатель откроет песню сразу в этой тональности.
+  // получатель откроет песню сразу в этой тональности. Путь берём из
+  // location.pathname (routerMode:'history'), прочие параметры сохраняем.
   function syncUrl() {
     if (!baseKey) return;
-    var hash = window.location.hash || '';
-    var route = hash.replace(/^#/, '');
-    var qi = route.indexOf('?');
-    var path = qi >= 0 ? route.slice(0, qi) : route;
+    var loc = window.location;
+    var pairs = (loc.search || '').replace(/^\?/, '').split('&').filter(Boolean);
+    var kept = pairs.filter(function (p) {
+      return p.split('=')[0] !== 'key';
+    });
     var key = offset === 0 ? '' : window.TransposeCore.keyAfter(baseKey, offset);
-    var next = '#' + path + (key ? '?key=' + encodeURIComponent(key) : '');
-    if (next !== hash) window.history.replaceState(null, '', next);
+    if (key) kept.push('key=' + encodeURIComponent(key));
+    var next = loc.pathname + (kept.length ? '?' + kept.join('&') : '');
+    if (next !== loc.pathname + (loc.search || '')) {
+      window.history.replaceState(null, '', next);
+    }
   }
 
   function injectStyle() {

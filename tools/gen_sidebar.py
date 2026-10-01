@@ -26,7 +26,7 @@ def main():
     lines = ['- [Главная](/)']
     if items:
         lines.append('**Песни**')
-        lines += [f'  - [{display_name(p)}](songs/{p.name})' for p in items]
+        lines += [f'  - [{display_name(p)}](/songs/{p.stem})' for p in items]
     (ROOT / '_sidebar.md').write_text('\n'.join(lines) + '\n',
                                       encoding='utf-8')
     print(f'Сайдбар обновлён: {len(items)} песня(ен)')

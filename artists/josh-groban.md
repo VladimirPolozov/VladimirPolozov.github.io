@@ -2,4 +2,4 @@
 
 В архиве 1 песня(ен).
 
-- [You raise me up](/songs/225.md)
+- [You raise me up](/songs/225)

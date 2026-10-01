@@ -21,31 +21,35 @@
 
   function isSetPage(vm) {
     var path = vm && vm.route && vm.route.path;
-    return !!path && /^\/set(\?|$)/.test(path);
+    return path === '/set';
   }
 
   function queryString() {
-    var hash = window.location.hash || '';
-    var qi = hash.indexOf('?');
-    return qi < 0 ? '' : hash.slice(qi + 1);
+    var s = window.location.search || '';
+    return s.charAt(0) === '?' ? s.slice(1) : s;
   }
 
   // Песни сета в порядке ссылки: [{ id: '225', key: 'E' }, …].
+  // Параметры читаются в порядке следования: song_id начинает новую песню,
+  // а key — если он идёт сразу после song_id — задаёт тональность этой
+  // песни. Ключ без пары или песня без ключа оставляют тональность как есть:
+  //   song_id=225&key=E&song_id=12&song_id=100&key=F
+  //   → 225 в E, 12 в своей тональности, 100 в F.
   function parseSet() {
     var qs = queryString();
     if (!qs) return null;
-    var params = new URLSearchParams(qs);
-    var ids = params.getAll('song_id');
-    if (!ids.length) return null;
-    var keys = params.getAll('key');
     var items = [];
-    for (var i = 0; i < ids.length; i++) {
-      items.push({
-        id: String(ids[i]).trim(),
-        key: keys[i] ? String(keys[i]).trim() : null
-      });
-    }
-    return items;
+    var params = new URLSearchParams(qs);
+    params.forEach(function (value, name) {
+      if (name === 'song_id') {
+        var id = String(value).trim();
+        if (id) items.push({ id: id, key: null });
+      } else if (name === 'key' && items.length) {
+        var k = String(value).trim();
+        if (k) items[items.length - 1].key = k;
+      }
+    });
+    return items.length ? items : null;
   }
 
   function esc(s) {
@@ -112,7 +116,7 @@
   }
 
   function fetchSong(id) {
-    return fetch('songs/' + id + '.md').then(function (r) {
+    return fetch('/songs/' + id + '.md').then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.text();
     });
@@ -321,13 +325,24 @@
   window.$docsify = window.$docsify || {};
   window.$docsify.plugins = window.$docsify.plugins || [];
   window.$docsify.plugins.push(function (hook, vm) {
-    hook.beforeEach(function (content) {
+    // ВАЖНО: docsify ждёт только колбэк-форму (arity 2).
+    //   callHook: if (2 === e.length) e(t, cb); else { var o = e(t); t = o; }
+    // Однопараметричный beforeEach с Promise возвращается в рендерер как
+    // содержимое — из-за этого страница сета не рендерилась вовсе.
+    hook.beforeEach(function (content, next) {
       state.shift = 0;
       state.items = [];
-      if (!isSetPage(vm)) return content;
+      if (!isSetPage(vm)) return next(content);
       var items = parseSet();
-      if (!items) return content;
-      return buildMarkdown(items);
+      if (!items) return next(content);
+      buildMarkdown(items).then(
+        function (md) {
+          next(md);
+        },
+        function () {
+          next(content);
+        }
+      );
     });
 
     hook.doneEach(function () {

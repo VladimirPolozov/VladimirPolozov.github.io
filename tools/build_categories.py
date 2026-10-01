@@ -77,7 +77,7 @@ def main():
         lines = [f'# {name}', '']
         lines.append(f'В категории {len(items)} песня(ен).')
         lines.append('')
-        lines += [f'- [{title}](/songs/{fn})' for title, fn in items]
+        lines += [f'- [{title}](/songs/{Path(fn).stem})' for title, fn in items]
         lines.append('')
         (CATS / f'{slug(name)}.md').write_text(
             '\n'.join(lines), encoding='utf-8', newline='\n')

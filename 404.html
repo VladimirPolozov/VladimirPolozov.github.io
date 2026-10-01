@@ -6,7 +6,9 @@
   <script>
     // GitHub Pages отдаёт 404.html на любой несуществующий путь. Кладём
     // запрошенный адрес в sessionStorage и уходим на корень — там index.html
-    // соберёт из него маршрут docsify: /set?song_id=1 → /#/set?song_id=1
+    // вернёт его в адресную строку через history.replaceState, и docsify в
+    // режиме routerMode:'history' сразу откроет страницу по чистому адресу
+    // (например, /set?song_id=1 или /songs/42?key=A), без решётки.
     sessionStorage.setItem('redirect', location.href);
     location.replace('/');
   </script>

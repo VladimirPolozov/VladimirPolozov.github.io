@@ -5,7 +5,9 @@
 (function () {
   'use strict';
 
-  var INDEX_URL = 'search-index.json';
+  // Абсолютный путь: при routerMode:'history' страница может быть
+  // /songs/42, и относительный 'search-index.json' ушёл бы в /songs/.
+  var INDEX_URL = '/search-index.json';
   var MAX_RESULTS = 20;
   var DEBOUNCE_MS = 120;
 
@@ -245,7 +247,8 @@
       li.setAttribute('aria-selected', 'false');
 
       var a = el('a');
-      a.href = '#' + it.s.u;
+      // routerMode:'history' — обычные адреса, без решётки.
+      a.href = it.s.u;
 
       var t = el('span', 'ss-title');
       t.innerHTML = highlight(it.s.t, tokens);
@@ -314,7 +317,11 @@
     ui.clear.hidden = true;
     closePanel();
     if (!target) return;
-    window.location.hash = '#' + target.s.u;
+    // Навигация в стиле роутера docsify (routerMode:'history'):
+    // pushState + popstate, чтобы страница перерисовалась без перезагрузки.
+    var url = target.s.u;
+    window.history.pushState({ key: url }, '', url);
+    window.dispatchEvent(new PopStateEvent('popstate', { state: { key: url } }));
   }
 
   function clearField() {

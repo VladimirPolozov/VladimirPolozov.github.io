@@ -4,6 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Аккорды RCC Worship</title>
+  <script>
+    // Чистые адреса вида /set?song_id=1 GitHub Pages не отдаёт — на них
+    // отвечает 404.html, который кладёт запрошенный URL в sessionStorage
+    // и уходит на корень. Здесь восстанавливаем его в адресную строку
+    // ЧЕРЕЗ history.replaceState, без перезагрузки: доктрина docsify
+    // (routerMode:'history') читает pathname + search, поэтому страница
+    // сразу открывается по чистому адресу, без решётки.
+    (function () {
+      var saved = sessionStorage.getItem('redirect');
+      if (!saved) return;
+      sessionStorage.removeItem('redirect');
+      var m = /^(?:https?:)?\/\/[^/?#]+(\/[^?#]*)?(\?[^#]*)?(#.*)?$/.exec(saved);
+      if (!m) return;
+      var path = (m[1] || '/').replace(/\/+$/, '') || '/';
+      var next = path + (m[2] || '');
+      var cur = location.pathname + location.search;
+      if (next !== cur) history.replaceState(null, '', next);
+    })();
+  </script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
       :root {
@@ -171,6 +190,7 @@
       subMaxLevel: 0,
       maxLevel: 4,
       auto2top: true,
+      routerMode: 'history',
       formatUpdated: '{YYYY}-{MM}-{DD}',
       markdown: {
         breaks: true
@@ -207,11 +227,12 @@
       }
     });
   </script>
-  <script src="tools/transpose-core.js?v=4"></script>
-  <script src="tools/transpose.js?v=4"></script>
-  <script src="tools/share.js?v=1"></script>
-  <script src="tools/menu.js?v=1"></script>
-  <script src="tools/set.js?v=1"></script>
+  <script src="/tools/transpose-core.js?v=4"></script>
+  <script src="/tools/transpose.js?v=5"></script>
+  <script src="/tools/share.js?v=1"></script>
+  <script src="/tools/menu.js?v=1"></script>
+  <script src="/tools/search.js?v=3"></script>
+  <script src="/tools/set.js?v=2"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 </body>
 </html>
