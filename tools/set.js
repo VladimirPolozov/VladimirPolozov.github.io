@@ -296,9 +296,10 @@
     if (bar && bar.parentNode) bar.parentNode.removeChild(bar);
   }
 
-  // Всё, что ниже заголовка «## Слова», уезжает в отдельный блок .set-lyrics,
-// чтобы его можно было скрыть целиком. Транспонирование обходит потомков
-// через querySelectorAll('p'), поэтому вложенность ему не мешает.
+// Всё, что ниже заголовка «## Слова», вместе с самим заголовком уезжает в
+  // отдельный блок .set-lyrics, чтобы его можно было скрыть целиком.
+  // Транспонирование обходит потомков через querySelectorAll('p'),
+  // поэтому вложенность ему не мешает.
   function wrapLyrics(body) {
     var heads = body.querySelectorAll('h1, h2, h3');
     var head = null;
@@ -311,13 +312,13 @@
     if (!head) return;
     var wrap = document.createElement('div');
     wrap.className = 'set-lyrics';
-    var node = head.nextSibling;
+    body.insertBefore(wrap, head);
+    var node = head;
     while (node) {
       var next = node.nextSibling;
       wrap.appendChild(node);
       node = next;
     }
-    body.appendChild(wrap);
   }
 
   function renderLyricsLabel() {
