@@ -6,6 +6,8 @@
   // song_id и key читаются парами по порядку (N-й song_id — N-му key);
   // если key для песни не задан, она остаётся в своей тональности.
   // Общий сдвиг кнопками «−/0/+» живёт только в отображении: адрес не меняется.
+  // Сейчас панель транспониции сета не выводится (buildBar не вызывается) —
+  // весь её код, включая копирование ссылки, сохранён на будущее.
   //
   // Песни склеиваются в один markdown и отдаются штатному компилятору docsify —
   // аккорды рендерятся тем же движком с теми же breaks:true, что и на странице
@@ -13,6 +15,8 @@
   // каждый блок существующий TransposeCore.applyTo.
 
   var state = { shift: 0, items: [] };
+  // Режим «только аккорды»: всё, что ниже заголовка «## Слова», скрыто.
+  var hideLyrics = false;
   var copyTimer = null;
 
   function getSection() {
@@ -170,10 +174,9 @@
     var st = document.createElement('style');
     st.id = 'set-style';
     st.textContent =
-      '#set-bar{display:flex;align-items:center;gap:8px;margin:0 0 6px;padding:6px 10px;border-radius:24px;' +
+      '#set-bar{position:fixed;right:16px;bottom:16px;z-index:9999;display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:24px;' +
       'background:#F7F9FA;box-shadow:8px 8px 16px rgba(30,45,55,.20),-8px -8px 16px rgba(255,255,255,.95);' +
-      'font-family:inherit;user-select:none;flex-wrap:wrap}' +
-      '#set-bar .set-bar-label{font-size:11px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:#8A949D}' +
+      'font-family:inherit;user-select:none}' +
       '#set-bar button{border:none;cursor:pointer;min-width:38px;height:38px;border-radius:50%;font-size:21px;' +
       'font-weight:600;line-height:1;color:#159FE8;background:#F7F9FA;font-family:inherit;' +
       'box-shadow:5px 5px 10px rgba(30,45,55,.18),-5px -5px 10px rgba(255,255,255,.95);transition:box-shadow .15s,color .15s}' +
@@ -182,6 +185,12 @@
       '#set-bar button[data-d="level"]{font-size:15px;width:58px;border-radius:19px;text-align:center;color:#0B8DCE}' +
       '#set-bar button[data-d="copy"]{min-width:0;width:auto;height:32px;padding:0 14px;border-radius:16px;' +
       'font-size:13px;font-weight:600;color:#0B8DCE}' +
+      '#set-lyrics-toggle{margin:0 0 8px;padding:7px 14px;border:none;border-radius:20px;cursor:pointer;font-family:inherit;' +
+      'font-size:13px;font-weight:600;color:#0B8DCE;background:#F7F9FA;user-select:none;' +
+      'box-shadow:5px 5px 10px rgba(30,45,55,.18),-5px -5px 10px rgba(255,255,255,.95);transition:box-shadow .15s,color .15s}' +
+      '#set-lyrics-toggle:hover{box-shadow:6px 6px 12px rgba(30,45,55,.22),-6px -6px 12px rgba(255,255,255,.95);color:#0B8DCE}' +
+      '#set-lyrics-toggle:active{box-shadow:inset 3px 3px 6px rgba(30,45,55,.22),inset -3px -3px 6px rgba(255,255,255,.95);color:#0B8DCE}' +
+      '.set-lyrics.hidden{display:none}' +
       '.set-song-body > h1:first-child{margin-top:8px}' +
       '.markdown-section hr{border:0;border-top:1px solid #EEF1F3;margin:22px 0}' +
       '.set-song-error{padding:10px 12px;border-radius:8px;background:#FDF2F2;color:#B3261E;font-size:13px;line-height:1.4}' +
@@ -265,25 +274,83 @@
     }, 1600);
   }
 
+  // Панель транспониции сета. Пока не используется: doneEach её не вызывает.
+  // Кнопка «Ссылка» убрана из разметки, но обработчик d === 'copy' в
+  // onBarClick и функция setUrl() остались на случай возврата.
   function buildBar(section) {
     if (document.getElementById('set-bar')) return;
     injectStyle();
     var bar = document.createElement('div');
     bar.id = 'set-bar';
     bar.innerHTML =
-      '<span class="set-bar-label">Сет</span>' +
       '<button type="button" data-d="down" title="Весь сет ниже на полтона">&#8722;</button>' +
       '<button type="button" data-d="level" title="Сбросить общий сдвиг">0</button>' +
-      '<button type="button" data-d="up" title="Весь сет выше на полтона">+</button>' +
-      '<button type="button" data-d="copy" title="Скопировать ссылку на сет">Ссылка</button>';
+      '<button type="button" data-d="up" title="Весь сет выше на полтона">+</button>';
     bar.addEventListener('click', onBarClick);
-    section.insertBefore(bar, section.firstChild);
+    document.body.appendChild(bar);
     renderShift();
   }
 
   function removeBar() {
     var bar = document.getElementById('set-bar');
     if (bar && bar.parentNode) bar.parentNode.removeChild(bar);
+  }
+
+  // Всё, что ниже заголовка «## Слова», уезжает в отдельный блок .set-lyrics,
+// чтобы его можно было скрыть целиком. Транспонирование обходит потомков
+// через querySelectorAll('p'), поэтому вложенность ему не мешает.
+  function wrapLyrics(body) {
+    var heads = body.querySelectorAll('h1, h2, h3');
+    var head = null;
+    for (var i = 0; i < heads.length; i++) {
+      if ((heads[i].textContent || '').trim() === 'Слова') {
+        head = heads[i];
+        break;
+      }
+    }
+    if (!head) return;
+    var wrap = document.createElement('div');
+    wrap.className = 'set-lyrics';
+    var node = head.nextSibling;
+    while (node) {
+      var next = node.nextSibling;
+      wrap.appendChild(node);
+      node = next;
+    }
+    body.appendChild(wrap);
+  }
+
+  function renderLyricsLabel() {
+    var btn = document.getElementById('set-lyrics-toggle');
+    if (btn) btn.textContent = hideLyrics ? 'Показать слова' : 'Скрыть слова';
+  }
+
+  function applyLyricsMode() {
+    var wraps = document.querySelectorAll('.markdown-section .set-lyrics');
+    for (var i = 0; i < wraps.length; i++) {
+      if (hideLyrics) wraps[i].classList.add('hidden');
+      else wraps[i].classList.remove('hidden');
+    }
+  }
+
+  function buildLyricsToggle(section) {
+    if (!document.getElementById('set-lyrics-toggle')) {
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.id = 'set-lyrics-toggle';
+      btn.addEventListener('click', function () {
+        hideLyrics = !hideLyrics;
+        applyLyricsMode();
+        renderLyricsLabel();
+      });
+      section.insertBefore(btn, section.firstChild);
+    }
+    renderLyricsLabel();
+  }
+
+  function removeLyricsToggle() {
+    var btn = document.getElementById('set-lyrics-toggle');
+    if (btn && btn.parentNode) btn.parentNode.removeChild(btn);
   }
 
   // Разделители <div class="set-song"> режут отрендеренный сек на блоки песен:
@@ -319,6 +386,7 @@
       for (var i = 0; i < g.nodes.length; i++) body.appendChild(g.nodes[i]);
       g.marker.parentNode.removeChild(g.marker);
       g.body = body;
+      wrapLyrics(body);
     });
   }
 
@@ -350,6 +418,8 @@
       if (!section) return;
       if (!isSetPage(vm) || !state.items.length) {
         removeBar();
+        removeLyricsToggle();
+        hideLyrics = false;
         return;
       }
 
@@ -382,7 +452,11 @@
         }
       });
 
-      buildBar(section);
+      // Панель транспониции сета намеренно не строится (buildBar ниже).
+      // Если понадобится — вернуть вызов buildBar(section).
+      injectStyle();
+      buildLyricsToggle(section);
+      applyLyricsMode();
     });
   });
 })();
