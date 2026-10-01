@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Аккорды RCC Worship</title>
+  <script>
+    // GitHub Pages отдаёт 404.html на любой несуществующий путь. Кладём
+    // запрошенный адрес в sessionStorage и уходим на корень — там index.html
+    // соберёт из него маршрут docsify: /set?song_id=1 → /#/set?song_id=1
+    sessionStorage.setItem('redirect', location.href);
+    location.replace('/');
+  </script>
+</head>
+<body>
+  <p>Перенаправление… <a href="/">На главную</a></p>
+</body>
+</html>
